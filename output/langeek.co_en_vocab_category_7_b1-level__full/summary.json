@@ -1,0 +1,16 @@
+{
+  "start_url": "https://langeek.co/en/vocab/category/7/b1-level",
+  "topics_count": 58,
+  "total_words": 1850,
+  "output_dir": "E:\\code\\Money\\Seledium\\output\\langeek.co_en_vocab_category_7_b1-level__full",
+  "structure": {
+    "root_files": [
+      "all_vocabulary.csv",
+      "all_topics.json",
+      "summary.json"
+    ],
+    "topic_files": [
+      "NN_topic-name.csv (word, phonetic, example, note, definition_en)"
+    ]
+  }
+}

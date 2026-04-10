@@ -1,0 +1,16 @@
+{
+  "start_url": "https://langeek.co/en/vocab/category/8/b2-level",
+  "topics_count": 64,
+  "total_words": 2224,
+  "output_dir": "E:\\code\\Money\\Seledium\\output\\langeek.co_en_vocab_category_8_b2-level__full",
+  "structure": {
+    "root_files": [
+      "all_vocabulary.csv",
+      "all_topics.json",
+      "summary.json"
+    ],
+    "topic_files": [
+      "NN_topic-name.csv (word, phonetic, example, note, definition_en)"
+    ]
+  }
+}

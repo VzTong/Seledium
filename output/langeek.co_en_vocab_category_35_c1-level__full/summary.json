@@ -1,0 +1,16 @@
+{
+  "start_url": "https://langeek.co/en/vocab/category/35/c1-level",
+  "topics_count": 67,
+  "total_words": 2481,
+  "output_dir": "E:\\code\\Money\\Seledium\\output\\langeek.co_en_vocab_category_35_c1-level__full",
+  "structure": {
+    "root_files": [
+      "all_vocabulary.csv",
+      "all_topics.json",
+      "summary.json"
+    ],
+    "topic_files": [
+      "NN_topic-name.csv (word, phonetic, example, note, definition_en)"
+    ]
+  }
+}

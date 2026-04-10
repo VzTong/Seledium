@@ -1,0 +1,14 @@
+[16:25:47] INFO: Thread crawler đã khởi động
+[16:25:47] INFO: Config headless=True, resume=True, phonetic=True, example=True, note_all=False, output=E:\code\Money\Seledium\output
+[16:25:47] Bắt đầu phiên cào dữ liệu...
+[16:25:47] Không thấy chromedriver local, Selenium Manager sẽ tự xử lý (có thể chậm nếu mạng yếu).
+[16:25:47] Đang khởi tạo ChromeDriver...
+[16:25:49] Khởi tạo ChromeDriver thành công.
+[16:25:54] Đã mở trang gốc: https://langeek.co/en/vocab/category/6/a2-level
+[16:25:54] Tìm thấy 50 chủ đề cần xử lý
+[16:25:54] [1/50] Đang xử lý: Home Appliances and Devices
+[16:25:59] INFO: expected_words=31
+[16:25:59] INFO: __NEXT_DATA__ cards=31
+[16:25:59] SAVE: 01_home_appliances_and_devices.csv (31 từ)
+[16:25:59] OK: Home Appliances and Devices -> 31 từ
+[16:25:59] [2/50] Đang xử lý: Clothes and Accessories

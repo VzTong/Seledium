@@ -1,0 +1,330 @@
+[16:31:31] INFO: Thread crawler đã khởi động
+[16:31:31] INFO: Config headless=True, resume=True, phonetic=True, example=True, note_all=False, output=E:\code\Money\Seledium\output
+[16:31:31] Bắt đầu phiên cào dữ liệu...
+[16:31:31] Không thấy chromedriver local, Selenium Manager sẽ tự xử lý (có thể chậm nếu mạng yếu).
+[16:31:31] Đang khởi tạo ChromeDriver...
+[16:31:33] Khởi tạo ChromeDriver thành công.
+[16:31:36] Đã mở trang gốc: https://langeek.co/en/vocab/category/8/b2-level
+[16:31:36] Tìm thấy 64 chủ đề cần xử lý
+[16:31:36] [1/64] Đang xử lý: Electronic Devices
+[16:31:43] INFO: expected_words=36
+[16:31:43] INFO: __NEXT_DATA__ cards=36
+[16:31:43] SAVE: 01_electronic_devices.csv (36 từ)
+[16:31:43] OK: Electronic Devices -> 36 từ
+[16:31:43] [2/64] Đang xử lý: Animals
+[16:31:49] INFO: expected_words=28
+[16:31:49] INFO: __NEXT_DATA__ cards=28
+[16:31:49] SAVE: 02_animals.csv (28 từ)
+[16:31:49] OK: Animals -> 28 từ
+[16:31:49] [3/64] Đang xử lý: Clothes and Fashion
+[16:31:55] INFO: expected_words=36
+[16:31:55] INFO: __NEXT_DATA__ cards=36
+[16:31:55] SAVE: 03_clothes_and_fashion.csv (36 từ)
+[16:31:55] OK: Clothes and Fashion -> 36 từ
+[16:31:55] [4/64] Đang xử lý: Family and Relationships
+[16:31:57] INFO: expected_words=32
+[16:31:57] INFO: __NEXT_DATA__ cards=32
+[16:31:57] SAVE: 04_family_and_relationships.csv (32 từ)
+[16:31:57] OK: Family and Relationships -> 32 từ
+[16:31:57] [5/64] Đang xử lý: Art
+[16:32:00] INFO: expected_words=31
+[16:32:00] INFO: __NEXT_DATA__ cards=31
+[16:32:00] SAVE: 05_art.csv (31 từ)
+[16:32:00] OK: Art -> 31 từ
+[16:32:00] [6/64] Đang xử lý: The Human Body
+[16:32:03] INFO: expected_words=30
+[16:32:03] INFO: __NEXT_DATA__ cards=30
+[16:32:03] SAVE: 06_the_human_body.csv (30 từ)
+[16:32:03] OK: The Human Body -> 30 từ
+[16:32:03] [7/64] Đang xử lý: Business and Office
+[16:32:08] INFO: expected_words=39
+[16:32:08] INFO: __NEXT_DATA__ cards=39
+[16:32:08] SAVE: 07_business_and_office.csv (39 từ)
+[16:32:08] OK: Business and Office -> 39 từ
+[16:32:08] [8/64] Đang xử lý: Crime and Violence
+[16:32:21] INFO: expected_words=46
+[16:32:21] INFO: __NEXT_DATA__ cards=46
+[16:32:21] SAVE: 08_crime_and_violence.csv (46 từ)
+[16:32:21] OK: Crime and Violence -> 46 từ
+[16:32:21] [9/64] Đang xử lý: Law
+[16:32:31] INFO: expected_words=40
+[16:32:31] INFO: __NEXT_DATA__ cards=40
+[16:32:31] SAVE: 09_law.csv (40 từ)
+[16:32:31] OK: Law -> 40 từ
+[16:32:31] [10/64] Đang xử lý: Nature
+[16:32:37] INFO: expected_words=29
+[16:32:37] INFO: __NEXT_DATA__ cards=29
+[16:32:37] SAVE: 10_nature.csv (29 từ)
+[16:32:37] OK: Nature -> 29 từ
+[16:32:37] [11/64] Đang xử lý: Politics
+[16:33:46] INFO: expected_words=47
+[16:33:47] INFO: __NEXT_DATA__ cards=47
+[16:33:47] SAVE: 11_politics.csv (47 từ)
+[16:33:47] OK: Politics -> 47 từ
+[16:33:47] [12/64] Đang xử lý: Money
+[16:34:03] INFO: expected_words=39
+[16:34:03] INFO: __NEXT_DATA__ cards=39
+[16:34:03] SAVE: 12_money.csv (39 từ)
+[16:34:03] OK: Money -> 39 từ
+[16:34:03] [13/64] Đang xử lý: Cooking
+[16:34:09] INFO: expected_words=28
+[16:34:09] INFO: __NEXT_DATA__ cards=28
+[16:34:09] SAVE: 13_cooking.csv (28 từ)
+[16:34:09] OK: Cooking -> 28 từ
+[16:34:09] [14/64] Đang xử lý: School and Education
+[16:34:15] INFO: expected_words=34
+[16:34:15] INFO: __NEXT_DATA__ cards=34
+[16:34:15] SAVE: 14_school_and_education.csv (34 từ)
+[16:34:15] OK: School and Education -> 34 từ
+[16:34:15] [15/64] Đang xử lý: Buildings and Structures
+[16:34:16] INFO: expected_words=35
+[16:34:16] INFO: __NEXT_DATA__ cards=35
+[16:34:16] SAVE: 15_buildings_and_structures.csv (35 từ)
+[16:34:16] OK: Buildings and Structures -> 35 từ
+[16:34:16] [16/64] Đang xử lý: Personality
+[16:34:27] INFO: expected_words=38
+[16:34:27] INFO: __NEXT_DATA__ cards=38
+[16:34:27] SAVE: 16_personality.csv (38 từ)
+[16:34:27] OK: Personality -> 38 từ
+[16:34:27] [17/64] Đang xử lý: Love and Romance
+[16:34:33] INFO: expected_words=32
+[16:34:33] INFO: __NEXT_DATA__ cards=32
+[16:34:33] SAVE: 17_love_and_romance.csv (32 từ)
+[16:34:33] OK: Love and Romance -> 32 từ
+[16:34:33] [18/64] Đang xử lý: Music
+[16:34:39] INFO: expected_words=34
+[16:34:39] INFO: __NEXT_DATA__ cards=34
+[16:34:39] SAVE: 18_music.csv (34 từ)
+[16:34:39] OK: Music -> 34 từ
+[16:34:39] [19/64] Đang xử lý: Jobs and Occupations
+[16:34:46] INFO: expected_words=32
+[16:34:46] INFO: __NEXT_DATA__ cards=32
+[16:34:46] SAVE: 19_jobs_and_occupations.csv (32 từ)
+[16:34:46] OK: Jobs and Occupations -> 32 từ
+[16:34:46] [20/64] Đang xử lý: Time
+[16:34:51] INFO: expected_words=30
+[16:34:51] INFO: __NEXT_DATA__ cards=30
+[16:34:51] SAVE: 20_time.csv (30 từ)
+[16:34:51] OK: Time -> 30 từ
+[16:34:51] [21/64] Đang xử lý: Health and Sickness
+[16:34:57] INFO: expected_words=36
+[16:34:57] INFO: __NEXT_DATA__ cards=36
+[16:34:57] SAVE: 21_health_and_sickness.csv (36 từ)
+[16:34:57] OK: Health and Sickness -> 36 từ
+[16:34:57] [22/64] Đang xử lý: Foods
+[16:35:04] INFO: expected_words=37
+[16:35:04] INFO: __NEXT_DATA__ cards=37
+[16:35:04] SAVE: 22_foods.csv (37 từ)
+[16:35:04] OK: Foods -> 37 từ
+[16:35:04] [23/64] Đang xử lý: Driving
+[16:35:11] INFO: expected_words=37
+[16:35:11] INFO: __NEXT_DATA__ cards=37
+[16:35:11] SAVE: 23_driving.csv (37 từ)
+[16:35:11] OK: Driving -> 37 từ
+[16:35:11] [24/64] Đang xử lý: Drinks
+[16:35:16] INFO: expected_words=22
+[16:35:16] INFO: __NEXT_DATA__ cards=22
+[16:35:16] SAVE: 24_drinks.csv (22 từ)
+[16:35:16] OK: Drinks -> 22 từ
+[16:35:16] [25/64] Đang xử lý: Grammar
+[16:35:23] INFO: expected_words=36
+[16:35:23] INFO: __NEXT_DATA__ cards=36
+[16:35:23] SAVE: 25_grammar.csv (36 từ)
+[16:35:23] OK: Grammar -> 36 từ
+[16:35:23] [26/64] Đang xử lý: Monarchy
+[16:35:32] INFO: expected_words=34
+[16:35:32] INFO: __NEXT_DATA__ cards=34
+[16:35:32] SAVE: 26_monarchy.csv (34 từ)
+[16:35:32] OK: Monarchy -> 34 từ
+[16:35:32] [27/64] Đang xử lý: Computers and Networks
+[16:35:37] INFO: expected_words=31
+[16:35:37] INFO: __NEXT_DATA__ cards=31
+[16:35:37] SAVE: 27_computers_and_networks.csv (31 từ)
+[16:35:37] OK: Computers and Networks -> 31 từ
+[16:35:37] [28/64] Đang xử lý: Outer Space
+[16:35:40] INFO: expected_words=33
+[16:35:40] INFO: __NEXT_DATA__ cards=33
+[16:35:40] SAVE: 28_outer_space.csv (33 từ)
+[16:35:40] OK: Outer Space -> 33 từ
+[16:35:40] [29/64] Đang xử lý: Wedding Ceremony
+[16:35:45] INFO: expected_words=27
+[16:35:45] INFO: __NEXT_DATA__ cards=27
+[16:35:45] SAVE: 29_wedding_ceremony.csv (27 từ)
+[16:35:45] OK: Wedding Ceremony -> 27 từ
+[16:35:45] [30/64] Đang xử lý: Plants
+[16:35:50] INFO: expected_words=30
+[16:35:50] INFO: __NEXT_DATA__ cards=30
+[16:35:50] SAVE: 30_plants.csv (30 từ)
+[16:35:50] OK: Plants -> 30 từ
+[16:35:50] [31/64] Đang xử lý: Working Out
+[16:35:56] INFO: expected_words=35
+[16:35:56] INFO: __NEXT_DATA__ cards=35
+[16:35:56] SAVE: 31_working_out.csv (35 từ)
+[16:35:56] OK: Working Out -> 35 từ
+[16:35:56] [32/64] Đang xử lý: Regulations and Requirements
+[16:36:02] INFO: expected_words=34
+[16:36:02] INFO: __NEXT_DATA__ cards=34
+[16:36:02] SAVE: 32_regulations_and_requirements.csv (34 từ)
+[16:36:02] OK: Regulations and Requirements -> 34 từ
+[16:36:02] [33/64] Đang xử lý: Fairy Tales
+[16:36:09] INFO: expected_words=34
+[16:36:09] INFO: __NEXT_DATA__ cards=34
+[16:36:09] SAVE: 33_fairy_tales.csv (34 từ)
+[16:36:09] OK: Fairy Tales -> 34 từ
+[16:36:09] [34/64] Đang xử lý: Certainty and Doubt
+[16:36:16] INFO: expected_words=39
+[16:36:16] INFO: __NEXT_DATA__ cards=39
+[16:36:16] SAVE: 34_certainty_and_doubt.csv (39 từ)
+[16:36:16] OK: Certainty and Doubt -> 39 từ
+[16:36:16] [35/64] Đang xử lý: Scientific Research
+[16:36:23] INFO: expected_words=38
+[16:36:23] INFO: __NEXT_DATA__ cards=38
+[16:36:23] SAVE: 35_scientific_research.csv (38 từ)
+[16:36:23] OK: Scientific Research -> 38 từ
+[16:36:23] [36/64] Đang xử lý: News and Journalism
+[16:36:29] INFO: expected_words=33
+[16:36:29] INFO: __NEXT_DATA__ cards=33
+[16:36:29] SAVE: 36_news_and_journalism.csv (33 từ)
+[16:36:29] OK: News and Journalism -> 33 từ
+[16:36:29] [37/64] Đang xử lý: Threats and Danger
+[16:36:36] INFO: expected_words=38
+[16:36:36] INFO: __NEXT_DATA__ cards=38
+[16:36:36] SAVE: 37_threats_and_danger.csv (38 từ)
+[16:36:36] OK: Threats and Danger -> 38 từ
+[16:36:36] [38/64] Đang xử lý: Communication
+[16:36:42] INFO: expected_words=34
+[16:36:42] INFO: __NEXT_DATA__ cards=34
+[16:36:42] SAVE: 38_communication.csv (34 từ)
+[16:36:42] OK: Communication -> 34 từ
+[16:36:42] [39/64] Đang xử lý: People and Society
+[16:36:49] INFO: expected_words=36
+[16:36:50] INFO: __NEXT_DATA__ cards=36
+[16:36:50] SAVE: 39_people_and_society.csv (36 từ)
+[16:36:50] OK: People and Society -> 36 từ
+[16:36:50] [40/64] Đang xử lý: Determination and Struggles
+[16:36:57] INFO: expected_words=43
+[16:36:57] INFO: __NEXT_DATA__ cards=43
+[16:36:57] SAVE: 40_determination_and_struggles.csv (43 từ)
+[16:36:57] OK: Determination and Struggles -> 43 từ
+[16:36:57] [41/64] Đang xử lý: Self-care Products
+[16:37:03] INFO: expected_words=32
+[16:37:03] INFO: __NEXT_DATA__ cards=32
+[16:37:03] SAVE: 41_self-care_products.csv (32 từ)
+[16:37:03] OK: Self-care Products -> 32 từ
+[16:37:03] [42/64] Đang xử lý: Bodily Actions
+[16:37:07] INFO: expected_words=30
+[16:37:07] INFO: __NEXT_DATA__ cards=30
+[16:37:07] SAVE: 42_bodily_actions.csv (30 từ)
+[16:37:07] OK: Bodily Actions -> 30 từ
+[16:37:07] [43/64] Đang xử lý: Tools
+[16:37:10] INFO: expected_words=31
+[16:37:10] INFO: __NEXT_DATA__ cards=31
+[16:37:10] SAVE: 43_tools.csv (31 từ)
+[16:37:10] OK: Tools -> 31 từ
+[16:37:10] [44/64] Đang xử lý: Evaluation and Opinion
+[16:37:13] INFO: expected_words=37
+[16:37:13] INFO: __NEXT_DATA__ cards=37
+[16:37:13] SAVE: 44_evaluation_and_opinion.csv (37 từ)
+[16:37:13] OK: Evaluation and Opinion -> 37 từ
+[16:37:13] [45/64] Đang xử lý: Assessment and Discourse
+[16:37:17] INFO: expected_words=35
+[16:37:17] INFO: __NEXT_DATA__ cards=35
+[16:37:17] SAVE: 45_assessment_and_discourse.csv (35 từ)
+[16:37:17] OK: Assessment and Discourse -> 35 từ
+[16:37:17] [46/64] Đang xử lý: Religion
+[16:37:20] INFO: expected_words=40
+[16:37:20] INFO: __NEXT_DATA__ cards=40
+[16:37:20] SAVE: 46_religion.csv (40 từ)
+[16:37:20] OK: Religion -> 40 từ
+[16:37:20] [47/64] Đang xử lý: Shapes and Colors
+[16:37:23] INFO: expected_words=31
+[16:37:23] INFO: __NEXT_DATA__ cards=31
+[16:37:23] SAVE: 47_shapes_and_colors.csv (31 từ)
+[16:37:23] OK: Shapes and Colors -> 31 từ
+[16:37:23] [48/64] Đang xử lý: Traveling
+[16:37:27] INFO: expected_words=37
+[16:37:27] INFO: __NEXT_DATA__ cards=37
+[16:37:27] SAVE: 48_traveling.csv (37 từ)
+[16:37:27] OK: Traveling -> 37 từ
+[16:37:27] [49/64] Đang xử lý: The Cinema
+[16:37:30] INFO: expected_words=32
+[16:37:30] INFO: __NEXT_DATA__ cards=32
+[16:37:30] SAVE: 49_the_cinema.csv (32 từ)
+[16:37:30] OK: The Cinema -> 32 từ
+[16:37:30] [50/64] Đang xử lý: Change
+[16:37:34] INFO: expected_words=38
+[16:37:34] INFO: __NEXT_DATA__ cards=38
+[16:37:34] SAVE: 50_change.csv (38 từ)
+[16:37:34] OK: Change -> 38 từ
+[16:37:34] [51/64] Đang xử lý: The Weather
+[16:37:37] INFO: expected_words=31
+[16:37:38] INFO: __NEXT_DATA__ cards=31
+[16:37:38] SAVE: 51_the_weather.csv (31 từ)
+[16:37:38] OK: The Weather -> 31 từ
+[16:37:38] [52/64] Đang xử lý: Farming
+[16:37:41] INFO: expected_words=33
+[16:37:41] INFO: __NEXT_DATA__ cards=33
+[16:37:41] SAVE: 52_farming.csv (33 từ)
+[16:37:41] OK: Farming -> 33 từ
+[16:37:41] [53/64] Đang xử lý: Preference
+[16:37:44] INFO: expected_words=28
+[16:37:44] INFO: __NEXT_DATA__ cards=28
+[16:37:44] SAVE: 53_preference.csv (28 từ)
+[16:37:44] OK: Preference -> 28 từ
+[16:37:44] [54/64] Đang xử lý: Phrasal Verbs
+[16:37:47] INFO: expected_words=43
+[16:37:48] INFO: __NEXT_DATA__ cards=43
+[16:37:48] SAVE: 54_phrasal_verbs.csv (43 từ)
+[16:37:48] OK: Phrasal Verbs -> 43 từ
+[16:37:48] [55/64] Đang xử lý: Feelings or States of Being
+[16:37:52] INFO: expected_words=41
+[16:37:52] INFO: __NEXT_DATA__ cards=41
+[16:37:52] SAVE: 55_feelings_or_states_of_being.csv (41 từ)
+[16:37:52] OK: Feelings or States of Being -> 41 từ
+[16:37:52] [56/64] Đang xử lý: Games
+[16:37:55] INFO: expected_words=24
+[16:37:55] INFO: __NEXT_DATA__ cards=24
+[16:37:55] SAVE: 56_games.csv (24 từ)
+[16:37:55] OK: Games -> 24 từ
+[16:37:55] [57/64] Đang xử lý: War and Peace
+[16:37:58] INFO: expected_words=45
+[16:37:58] INFO: __NEXT_DATA__ cards=45
+[16:37:58] SAVE: 57_war_and_peace.csv (45 từ)
+[16:37:58] OK: War and Peace -> 45 từ
+[16:37:58] [58/64] Đang xử lý: City Structures
+[16:38:01] INFO: expected_words=34
+[16:38:01] INFO: __NEXT_DATA__ cards=34
+[16:38:01] SAVE: 58_city_structures.csv (34 từ)
+[16:38:01] OK: City Structures -> 34 từ
+[16:38:01] [59/64] Đang xử lý: World of Science
+[16:38:05] INFO: expected_words=35
+[16:38:05] INFO: __NEXT_DATA__ cards=35
+[16:38:05] SAVE: 59_world_of_science.csv (35 từ)
+[16:38:05] OK: World of Science -> 35 từ
+[16:38:05] [60/64] Đang xử lý: Measurement
+[16:38:08] INFO: expected_words=35
+[16:38:08] INFO: __NEXT_DATA__ cards=35
+[16:38:08] SAVE: 60_measurement.csv (35 từ)
+[16:38:08] OK: Measurement -> 35 từ
+[16:38:08] [61/64] Đang xử lý: Common Verbs
+[16:38:11] INFO: expected_words=37
+[16:38:11] INFO: __NEXT_DATA__ cards=37
+[16:38:11] SAVE: 61_common_verbs.csv (37 từ)
+[16:38:11] OK: Common Verbs -> 37 từ
+[16:38:11] [62/64] Đang xử lý: General Adverbs
+[16:38:16] INFO: expected_words=40
+[16:38:16] INFO: __NEXT_DATA__ cards=40
+[16:38:16] SAVE: 62_general_adverbs.csv (40 từ)
+[16:38:16] OK: General Adverbs -> 40 từ
+[16:38:16] [63/64] Đang xử lý: Useful Adjectives
+[16:38:20] INFO: expected_words=37
+[16:38:20] INFO: __NEXT_DATA__ cards=37
+[16:38:20] SAVE: 63_useful_adjectives.csv (37 từ)
+[16:38:20] OK: Useful Adjectives -> 37 từ
+[16:38:20] [64/64] Đang xử lý: General Adjectives
+[16:38:24] INFO: expected_words=35
+[16:38:24] INFO: __NEXT_DATA__ cards=35
+[16:38:24] SAVE: 64_general_adjectives.csv (35 từ)
+[16:38:24] OK: General Adjectives -> 35 từ
+[16:38:26] Hoàn tất: 64 topic, 2224 từ
+[16:39:11] INFO: CSV Viewer tải 2224 dòng từ all_vocabulary.csv
