@@ -1,0 +1,287 @@
+[15:09:26] INFO: Thread crawler đã khởi động
+[15:09:26] INFO: Config headless=True, resume=True, phonetic=False, example=False, note_all=False, output=E:\code\Money\Seledium\output
+[15:09:26] Bắt đầu phiên cào dữ liệu...
+[15:09:26] Không thấy chromedriver local, Selenium Manager sẽ tự xử lý (có thể chậm nếu mạng yếu).
+[15:09:26] Đang khởi tạo ChromeDriver...
+[15:09:27] Khởi tạo ChromeDriver thành công.
+[15:09:31] Đã mở trang gốc: https://langeek.co/en/vocab/category/6/a2-level
+[15:09:31] Tìm thấy 50 chủ đề cần xử lý
+[15:09:31] [1/50] Đang xử lý: Home Appliances and Devices
+[15:09:45] INFO: expected_words=31
+[15:09:46] INFO: __NEXT_DATA__ cards=31
+[15:09:46] SAVE: 01_home_appliances_and_devices.csv (31 từ)
+[15:09:46] OK: Home Appliances and Devices -> 31 từ
+[15:09:46] [2/50] Đang xử lý: Clothes and Accessories
+[15:09:54] INFO: expected_words=31
+[15:09:54] INFO: __NEXT_DATA__ cards=31
+[15:09:54] SAVE: 02_clothes_and_accessories.csv (31 từ)
+[15:09:54] OK: Clothes and Accessories -> 31 từ
+[15:09:54] [3/50] Đang xử lý: Colors and Shapes
+[15:10:00] INFO: expected_words=29
+[15:10:00] INFO: __NEXT_DATA__ cards=29
+[15:10:00] SAVE: 03_colors_and_shapes.csv (29 từ)
+[15:10:00] OK: Colors and Shapes -> 29 từ
+[15:10:00] [4/50] Đang xử lý: Computer and Information
+[15:10:06] INFO: expected_words=36
+[15:10:06] INFO: __NEXT_DATA__ cards=36
+[15:10:06] SAVE: 04_computer_and_information.csv (36 từ)
+[15:10:06] OK: Computer and Information -> 36 từ
+[15:10:06] [5/50] Đang xử lý: School and Education
+[15:10:12] INFO: expected_words=37
+[15:10:12] INFO: __NEXT_DATA__ cards=37
+[15:10:12] SAVE: 05_school_and_education.csv (37 từ)
+[15:10:12] OK: School and Education -> 37 từ
+[15:10:12] [6/50] Đang xử lý: Animals
+[15:10:18] INFO: expected_words=35
+[15:10:18] INFO: __NEXT_DATA__ cards=35
+[15:10:18] SAVE: 06_animals.csv (35 từ)
+[15:10:18] OK: Animals -> 35 từ
+[15:10:18] [7/50] Đang xử lý: Appearance
+[15:10:23] INFO: expected_words=28
+[15:10:23] INFO: __NEXT_DATA__ cards=28
+[15:10:23] SAVE: 07_appearance.csv (28 từ)
+[15:10:23] OK: Appearance -> 28 từ
+[15:10:23] [8/50] Đang xử lý: The Human Body
+[15:10:27] INFO: expected_words=28
+[15:10:27] INFO: __NEXT_DATA__ cards=28
+[15:10:27] SAVE: 08_the_human_body.csv (28 từ)
+[15:10:27] OK: The Human Body -> 28 từ
+[15:10:27] [9/50] Đang xử lý: Conjunctions and Prepositions
+[15:10:33] INFO: expected_words=38
+[15:10:33] INFO: __NEXT_DATA__ cards=38
+[15:10:33] SAVE: 09_conjunctions_and_prepositions.csv (38 từ)
+[15:10:33] OK: Conjunctions and Prepositions -> 38 từ
+[15:10:33] [10/50] Đang xử lý: Communication
+[15:10:40] INFO: expected_words=44
+[15:10:40] INFO: __NEXT_DATA__ cards=44
+[15:10:40] SAVE: 10_communication.csv (44 từ)
+[15:10:40] OK: Communication -> 44 từ
+[15:10:40] [11/50] Đang xử lý: Cinema and Theater
+[15:10:45] INFO: expected_words=32
+[15:10:46] INFO: __NEXT_DATA__ cards=32
+[15:10:46] SAVE: 11_cinema_and_theater.csv (32 từ)
+[15:10:46] OK: Cinema and Theater -> 32 từ
+[15:10:46] [12/50] Đang xử lý: Music and Literature
+[15:10:53] INFO: expected_words=32
+[15:10:53] INFO: __NEXT_DATA__ cards=32
+[15:10:53] SAVE: 12_music_and_literature.csv (32 từ)
+[15:10:53] OK: Music and Literature -> 32 từ
+[15:10:53] [13/50] Đang xử lý: Family and Friends
+[15:10:58] INFO: expected_words=28
+[15:10:58] INFO: __NEXT_DATA__ cards=28
+[15:10:58] SAVE: 13_family_and_friends.csv (28 từ)
+[15:10:58] OK: Family and Friends -> 28 từ
+[15:10:58] [14/50] Đang xử lý: Restaurants and Food
+[15:11:00] INFO: expected_words=32
+[15:11:00] INFO: __NEXT_DATA__ cards=32
+[15:11:00] SAVE: 14_restaurants_and_food.csv (32 từ)
+[15:11:00] OK: Restaurants and Food -> 32 từ
+[15:11:00] [15/50] Đang xử lý: Health and Sickness
+[15:11:13] INFO: expected_words=32
+[15:11:13] INFO: __NEXT_DATA__ cards=32
+[15:11:13] SAVE: 15_health_and_sickness.csv (32 từ)
+[15:11:13] OK: Health and Sickness -> 32 từ
+[15:11:13] [16/50] Đang xử lý: Hobbies and Daily Activities
+[15:11:18] INFO: expected_words=34
+[15:11:18] INFO: __NEXT_DATA__ cards=34
+[15:11:18] SAVE: 16_hobbies_and_daily_activities.csv (34 từ)
+[15:11:18] OK: Hobbies and Daily Activities -> 34 từ
+[15:11:18] [17/50] Đang xử lý: Home
+[15:11:21] INFO: expected_words=23
+[15:11:21] INFO: __NEXT_DATA__ cards=23
+[15:11:21] SAVE: 17_home.csv (23 từ)
+[15:11:21] OK: Home -> 23 từ
+[15:11:21] [18/50] Đang xử lý: Time and Date
+[15:11:24] INFO: expected_words=33
+[15:11:24] INFO: __NEXT_DATA__ cards=33
+[15:11:24] SAVE: 18_time_and_date.csv (33 từ)
+[15:11:24] OK: Time and Date -> 33 từ
+[15:11:24] [19/50] Đang xử lý: Necessary Opposite Adjectives
+[15:11:28] INFO: expected_words=32
+[15:11:28] INFO: __NEXT_DATA__ cards=32
+[15:11:28] SAVE: 19_necessary_opposite_adjectives.csv (32 từ)
+[15:11:28] OK: Necessary Opposite Adjectives -> 32 từ
+[15:11:28] [20/50] Đang xử lý: Nature and Natural Disasters
+[15:11:31] INFO: expected_words=35
+[15:11:31] INFO: __NEXT_DATA__ cards=35
+[15:11:31] SAVE: 20_nature_and_natural_disasters.csv (35 từ)
+[15:11:31] OK: Nature and Natural Disasters -> 35 từ
+[15:11:31] [21/50] Đang xử lý: Money and Shopping
+[15:11:35] INFO: expected_words=35
+[15:11:35] INFO: __NEXT_DATA__ cards=35
+[15:11:35] SAVE: 21_money_and_shopping.csv (35 từ)
+[15:11:35] OK: Money and Shopping -> 35 từ
+[15:11:35] [22/50] Đang xử lý: Jobs and Work
+[15:11:39] INFO: expected_words=34
+[15:11:39] INFO: __NEXT_DATA__ cards=34
+[15:11:39] SAVE: 22_jobs_and_work.csv (34 từ)
+[15:11:39] OK: Jobs and Work -> 34 từ
+[15:11:39] [23/50] Đang xử lý: Sports
+[15:11:41] INFO: expected_words=33
+[15:11:41] INFO: __NEXT_DATA__ cards=33
+[15:11:41] SAVE: 23_sports.csv (33 từ)
+[15:11:41] OK: Sports -> 33 từ
+[15:11:41] [24/50] Đang xử lý: Tourism
+[15:11:44] INFO: expected_words=33
+[15:11:44] INFO: __NEXT_DATA__ cards=33
+[15:11:44] SAVE: 24_tourism.csv (33 từ)
+[15:11:44] OK: Tourism -> 33 từ
+[15:11:44] [25/50] Đang xử lý: The Weather
+[15:11:47] INFO: expected_words=31
+[15:11:47] INFO: __NEXT_DATA__ cards=31
+[15:11:47] SAVE: 25_the_weather.csv (31 từ)
+[15:11:47] OK: The Weather -> 31 từ
+[15:11:47] [26/50] Đang xử lý: Quantity
+[15:11:50] INFO: expected_words=29
+[15:11:50] INFO: __NEXT_DATA__ cards=29
+[15:11:50] SAVE: 26_quantity.csv (29 từ)
+[15:11:50] OK: Quantity -> 29 từ
+[15:11:50] [27/50] Đang xử lý: Countries and Nationalities
+[15:11:53] INFO: expected_words=28
+[15:11:53] INFO: __NEXT_DATA__ cards=28
+[15:11:53] SAVE: 27_countries_and_nationalities.csv (28 từ)
+[15:11:53] OK: Countries and Nationalities -> 28 từ
+[15:11:53] [28/50] Đang xử lý: Languages and Grammar
+[15:11:55] INFO: expected_words=28
+[15:11:55] INFO: __NEXT_DATA__ cards=28
+[15:11:55] SAVE: 28_languages_and_grammar.csv (28 từ)
+[15:11:55] OK: Languages and Grammar -> 28 từ
+[15:11:55] [29/50] Đang xử lý: Basic Phrasal Verbs
+[15:11:58] INFO: expected_words=30
+[15:11:58] INFO: __NEXT_DATA__ cards=30
+[15:11:58] SAVE: 29_basic_phrasal_verbs.csv (30 từ)
+[15:11:58] OK: Basic Phrasal Verbs -> 30 từ
+[15:11:58] [30/50] Đang xử lý: Flowers, Fruits, and Nuts
+[15:12:01] INFO: expected_words=31
+[15:12:01] INFO: __NEXT_DATA__ cards=31
+[15:12:01] SAVE: 30_flowers_fruits_and_nuts.csv (31 từ)
+[15:12:01] OK: Flowers, Fruits, and Nuts -> 31 từ
+[15:12:01] [31/50] Đang xử lý: Personality and Behavior
+[15:12:05] INFO: expected_words=40
+[15:12:05] INFO: __NEXT_DATA__ cards=40
+[15:12:05] SAVE: 31_personality_and_behavior.csv (40 từ)
+[15:12:05] OK: Personality and Behavior -> 40 từ
+[15:12:05] [32/50] Đang xử lý: Food
+[15:12:08] INFO: expected_words=26
+[15:12:08] INFO: __NEXT_DATA__ cards=26
+[15:12:08] SAVE: 32_food.csv (26 từ)
+[15:12:08] OK: Food -> 26 từ
+[15:12:08] [33/50] Đang xử lý: Injuries and Sickness
+[15:12:10] INFO: expected_words=24
+[15:12:11] INFO: __NEXT_DATA__ cards=24
+[15:12:11] SAVE: 33_injuries_and_sickness.csv (24 từ)
+[15:12:11] OK: Injuries and Sickness -> 24 từ
+[15:12:11] [34/50] Đang xử lý: Employment and Occupations
+[15:12:13] INFO: expected_words=31
+[15:12:13] INFO: __NEXT_DATA__ cards=31
+[15:12:13] SAVE: 34_employment_and_occupations.csv (31 từ)
+[15:12:13] OK: Employment and Occupations -> 31 từ
+[15:12:13] [35/50] Đang xử lý: Exercise and Matches
+[15:12:16] INFO: expected_words=30
+[15:12:16] INFO: __NEXT_DATA__ cards=30
+[15:12:16] SAVE: 35_exercise_and_matches.csv (30 từ)
+[15:12:16] OK: Exercise and Matches -> 30 từ
+[15:12:16] [36/50] Đang xử lý: Travelling
+[15:12:19] INFO: expected_words=34
+[15:12:19] INFO: __NEXT_DATA__ cards=34
+[15:12:19] SAVE: 36_travelling.csv (34 từ)
+[15:12:19] OK: Travelling -> 34 từ
+[15:12:19] [37/50] Đang xử lý: Furniture and Household Items
+[15:12:21] INFO: expected_words=20
+[15:12:21] INFO: __NEXT_DATA__ cards=20
+[15:12:21] SAVE: 37_furniture_and_household_items.csv (20 từ)
+[15:12:21] OK: Furniture and Household Items -> 20 từ
+[15:12:21] [38/50] Đang xử lý: City and the Countryside
+[15:12:23] INFO: expected_words=36
+[15:12:23] INFO: __NEXT_DATA__ cards=36
+[15:12:23] SAVE: 38_city_and_the_countryside.csv (36 từ)
+[15:12:23] OK: City and the Countryside -> 36 từ
+[15:12:23] [39/50] Đang xử lý: Measurement
+[15:12:26] INFO: expected_words=37
+[15:12:26] INFO: __NEXT_DATA__ cards=37
+[15:12:26] SAVE: 39_measurement.csv (37 từ)
+[15:12:26] OK: Measurement -> 37 từ
+[15:12:26] [40/50] Đang xử lý: The Mind
+[15:12:29] INFO: expected_words=37
+[15:12:29] INFO: __NEXT_DATA__ cards=37
+[15:12:29] SAVE: 40_the_mind.csv (37 từ)
+[15:12:29] OK: The Mind -> 37 từ
+[15:12:29] [41/50] Đang xử lý: Essential Adverbs
+[15:12:33] INFO: expected_words=31
+[15:12:33] INFO: __NEXT_DATA__ cards=31
+[15:12:33] SAVE: 41_essential_adverbs.csv (31 từ)
+[15:12:33] OK: Essential Adverbs -> 31 từ
+[15:12:33] [42/50] Đang xử lý: Essential Opposite Adjectives
+[15:12:36] INFO: expected_words=29
+[15:12:36] INFO: __NEXT_DATA__ cards=29
+[15:12:36] SAVE: 42_essential_opposite_adjectives.csv (29 từ)
+[15:12:36] OK: Essential Opposite Adjectives -> 29 từ
+[15:12:36] [43/50] Đang xử lý: Emotions
+[15:12:38] INFO: expected_words=26
+[15:12:38] INFO: __NEXT_DATA__ cards=26
+[15:12:38] SAVE: 43_emotions.csv (26 từ)
+[15:12:38] OK: Emotions -> 26 từ
+[15:12:38] [44/50] Đang xử lý: Modal and Other Verbs
+[15:12:41] INFO: expected_words=37
+[15:12:41] INFO: __NEXT_DATA__ cards=37
+[15:12:41] SAVE: 44_modal_and_other_verbs.csv (37 từ)
+[15:12:41] OK: Modal and Other Verbs -> 37 từ
+[15:12:41] [45/50] Đang xử lý: Mathematics
+[15:12:45] INFO: expected_words=28
+[15:12:45] INFO: __NEXT_DATA__ cards=28
+[15:12:45] SAVE: 45_mathematics.csv (28 từ)
+[15:12:45] OK: Mathematics -> 28 từ
+[15:12:45] [46/50] Đang xử lý: Science and the Natural World
+[15:12:46] SKIP: Science and the Natural World (https://langeek.co/en/vocab/subcategory/796/learn) - WebDriverException: Message: unknown error: net::ERR_ADDRESS_UNREACHABLE
+  (Session info: chrome=146.0.7680.178)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff71b4629c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff71b18a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff71aeedb2d]
+	chromedriver!(No symbol) [0x7ff71aeea654]
+	chromedriver!(No symbol) [0x7ff71aeda6d1]
+	chromedriver!(No symbol) [0x7ff71aedc5bf]
+	chromedriver!(No symbol) [0x7ff71aedac73]
+	chromedriver!(No symbol) [0x7ff71aeda43b]
+	chromedriver!(No symbol) [0x7ff71aeda0f1]
+	chromedriver!(No symbol) [0x7ff71aed7d3b]
+	chromedriver!(No symbol) [0x7ff71aed8482]
+	chromedriver!(No symbol) [0x7ff71aef1de6]
+	chromedriver!(No symbol) [0x7ff71af94994]
+	chromedriver!(No symbol) [0x7ff71af6ff8a]
+	chromedriver!(No symbol) [0x7ff71af93b9b]
+	chromedriver!(No symbol) [0x7ff71af39298]
+	chromedriver!(No symbol) [0x7ff71af3a183]
+	chromedriver!GetHandleVerifier [0x7ff71b48de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff71b488588+313348]
+	chromedriver!GetHandleVerifier [0x7ff71b4a9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff71b1a6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff71b1afacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff71b193634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff71b1937e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff71b177e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7fff8a88e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fff8b0ec53c+2c]
+
+[15:12:46] [47/50] Đang xử lý: Necessary Verbs
+[15:12:52] INFO: expected_words=32
+[15:12:52] INFO: __NEXT_DATA__ cards=32
+[15:12:52] SAVE: 47_necessary_verbs.csv (32 từ)
+[15:12:52] OK: Necessary Verbs -> 32 từ
+[15:12:52] [48/50] Đang xử lý: Common Verbs
+[15:12:56] INFO: expected_words=32
+[15:12:57] INFO: __NEXT_DATA__ cards=32
+[15:12:57] SAVE: 48_common_verbs.csv (32 từ)
+[15:12:57] OK: Common Verbs -> 32 từ
+[15:12:57] [49/50] Đang xử lý: Essential Verbs
+[15:13:00] INFO: expected_words=30
+[15:13:00] INFO: __NEXT_DATA__ cards=30
+[15:13:00] SAVE: 49_essential_verbs.csv (30 từ)
+[15:13:00] OK: Essential Verbs -> 30 từ
+[15:13:00] [50/50] Đang xử lý: Pronouns and Determiners
+[15:13:02] INFO: expected_words=23
+[15:13:02] INFO: __NEXT_DATA__ cards=23
+[15:13:02] SAVE: 50_pronouns_and_determiners.csv (23 từ)
+[15:13:02] OK: Pronouns and Determiners -> 23 từ
+[15:13:04] Hoàn tất: 49 topic, 1545 từ
+[15:13:08] INFO: CSV Viewer tải 1545 dòng từ all_vocabulary.csv

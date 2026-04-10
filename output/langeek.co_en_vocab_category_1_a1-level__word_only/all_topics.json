@@ -1,0 +1,5803 @@
+[
+  {
+    "topic_title": "Hello and Goodbye",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/1/learn",
+    "topic_file": "01_hello_and_goodbye.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "hello",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "goodbye",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "hi",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "bye",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "good morning",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "good afternoon",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "good evening",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "good night",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "thank you",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "thanks",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "please",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "OK",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "yes",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "no",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "sorry",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "welcome",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "hello",
+      "goodbye",
+      "hi",
+      "bye",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "good night",
+      "thank you",
+      "thanks",
+      "please",
+      "OK",
+      "yes",
+      "no",
+      "sorry",
+      "welcome"
+    ]
+  },
+  {
+    "topic_title": "People",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/19/learn",
+    "topic_file": "02_people.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "man",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "woman",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "boy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "girl",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "friend",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "boyfriend",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "girlfriend",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "person",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "people",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "adult",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "baby",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "Mr",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "Mrs",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "miss",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "man",
+      "woman",
+      "boy",
+      "girl",
+      "friend",
+      "boyfriend",
+      "girlfriend",
+      "person",
+      "people",
+      "adult",
+      "baby",
+      "Mr",
+      "Mrs",
+      "miss"
+    ]
+  },
+  {
+    "topic_title": "Numbers 0 to 100",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/2/learn",
+    "topic_file": "03_numbers_0_to_100.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "zero",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "one",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "two",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "three",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "four",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "five",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "six",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "seven",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "eight",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "nine",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "ten",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "eleven",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "twelve",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "thirteen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "fourteen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "fifteen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "sixteen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "seventeen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "eighteen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "nineteen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "twenty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "thirty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "forty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "fifty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "sixty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "seventy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "eighty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "ninety",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "29",
+        "word": "hundred",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "zero",
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten",
+      "eleven",
+      "twelve",
+      "thirteen",
+      "fourteen",
+      "fifteen",
+      "sixteen",
+      "seventeen",
+      "eighteen",
+      "nineteen",
+      "twenty",
+      "thirty",
+      "forty",
+      "fifty",
+      "sixty",
+      "seventy",
+      "eighty",
+      "ninety",
+      "hundred"
+    ]
+  },
+  {
+    "topic_title": "Family",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/3/learn",
+    "topic_file": "04_family.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "parent",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "father",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "mother",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "dad",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "mom",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "wife",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "husband",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "child",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "son",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "daughter",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "sister",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "brother",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "family",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "grandmother",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "grandfather",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "grandchild",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "aunt",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "uncle",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "niece",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "nephew",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "cousin",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "parent",
+      "father",
+      "mother",
+      "dad",
+      "mom",
+      "wife",
+      "husband",
+      "child",
+      "son",
+      "daughter",
+      "sister",
+      "brother",
+      "family",
+      "grandmother",
+      "grandfather",
+      "grandchild",
+      "aunt",
+      "uncle",
+      "niece",
+      "nephew",
+      "cousin"
+    ]
+  },
+  {
+    "topic_title": "Colors",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/4/learn",
+    "topic_file": "05_colors.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "black",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "white",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "blue",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "green",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "yellow",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "red",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "pink",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "orange",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "purple",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "gray",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "brown",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "dark",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "light",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "color",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "black",
+      "white",
+      "blue",
+      "green",
+      "yellow",
+      "red",
+      "pink",
+      "orange",
+      "purple",
+      "gray",
+      "brown",
+      "dark",
+      "light",
+      "color"
+    ]
+  },
+  {
+    "topic_title": "Months and Seasons",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/5/learn",
+    "topic_file": "06_months_and_seasons.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "month",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "January",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "February",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "March",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "April",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "May",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "June",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "July",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "August",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "September",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "October",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "November",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "December",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "season",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "spring",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "summer",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "fall",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "winter",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "season",
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ]
+  },
+  {
+    "topic_title": "Time and Date",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/6/learn",
+    "topic_file": "07_time_and_date.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "clock",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "year",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "time",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "date",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "day",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "hour",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "o'clock",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "minute",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "second",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "morning",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "afternoon",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "evening",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "night",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "week",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Sunday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "Monday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "Tuesday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "Wednesday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "Thursday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "Friday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "Saturday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "weekend",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "next",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "half",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "clock",
+      "year",
+      "time",
+      "date",
+      "day",
+      "hour",
+      "o'clock",
+      "minute",
+      "second",
+      "morning",
+      "afternoon",
+      "evening",
+      "night",
+      "week",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "weekend",
+      "next",
+      "half"
+    ]
+  },
+  {
+    "topic_title": "Personal Information",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/500/learn",
+    "topic_file": "08_personal_information.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "name",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "last name",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "age",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "address",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "birthday",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "birthdate",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "single",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "married",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "passport",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "phone number",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "question",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "answer",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "name",
+      "last name",
+      "age",
+      "address",
+      "birthday",
+      "birthdate",
+      "single",
+      "married",
+      "passport",
+      "phone number",
+      "question",
+      "answer"
+    ]
+  },
+  {
+    "topic_title": "The Body",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/8/learn",
+    "topic_file": "09_the_body.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "body",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "hand",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "arm",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "foot",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "head",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "leg",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "knee",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "back",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "stomach",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "body",
+      "hand",
+      "arm",
+      "foot",
+      "head",
+      "leg",
+      "knee",
+      "back",
+      "stomach"
+    ]
+  },
+  {
+    "topic_title": "The Head and Face",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/9/learn",
+    "topic_file": "10_the_head_and_face.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "hair",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "neck",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "face",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "eye",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "nose",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "ear",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "cheek",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "chin",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "mouth",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "tooth",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "lip",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "hair",
+      "neck",
+      "face",
+      "eye",
+      "nose",
+      "ear",
+      "cheek",
+      "chin",
+      "mouth",
+      "tooth",
+      "lip"
+    ]
+  },
+  {
+    "topic_title": "Opposite Adjectives",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/11/learn",
+    "topic_file": "11_opposite_adjectives.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "good",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "bad",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "high",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "low",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "big",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "small",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "heavy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "light",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "expensive",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "cheap",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "old",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "new",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "beautiful",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "ugly",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "clean",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "dirty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "easy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "difficult",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "fast",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "slow",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "different",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "same",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "right",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "wrong",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "open",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "closed",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "true",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "false",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "29",
+        "word": "rich",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "30",
+        "word": "poor",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "31",
+        "word": "sure",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "32",
+        "word": "unsure",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "33",
+        "word": "correct",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "34",
+        "word": "incorrect",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "good",
+      "bad",
+      "high",
+      "low",
+      "big",
+      "small",
+      "heavy",
+      "light",
+      "expensive",
+      "cheap",
+      "old",
+      "new",
+      "beautiful",
+      "ugly",
+      "clean",
+      "dirty",
+      "easy",
+      "difficult",
+      "fast",
+      "slow",
+      "different",
+      "same",
+      "right",
+      "wrong",
+      "open",
+      "closed",
+      "true",
+      "false",
+      "rich",
+      "poor",
+      "sure",
+      "unsure",
+      "correct",
+      "incorrect"
+    ]
+  },
+  {
+    "topic_title": "House and Apartment",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/12/learn",
+    "topic_file": "12_house_and_apartment.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "building",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "house",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "home",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "apartment",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "floor",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "door",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "window",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "wall",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "room",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "roof",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "ceiling",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "living room",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "dining room",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "kitchen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "bedroom",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "bathroom",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "garden",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "upstairs",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "downstairs",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "closet",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "part",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "elevator",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "yard",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "building",
+      "house",
+      "home",
+      "apartment",
+      "floor",
+      "door",
+      "window",
+      "wall",
+      "room",
+      "roof",
+      "ceiling",
+      "living room",
+      "dining room",
+      "kitchen",
+      "bedroom",
+      "bathroom",
+      "garden",
+      "upstairs",
+      "downstairs",
+      "closet",
+      "part",
+      "elevator",
+      "yard"
+    ]
+  },
+  {
+    "topic_title": "Furniture and Home Appliances",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/13/learn",
+    "topic_file": "13_furniture_and_home_appliances.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "desk",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "chair",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "table",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "sofa",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "bed",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cabinet",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "refrigerator",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "television",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "stove",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "desk",
+      "chair",
+      "table",
+      "sofa",
+      "bed",
+      "cabinet",
+      "refrigerator",
+      "television",
+      "stove"
+    ]
+  },
+  {
+    "topic_title": "Jobs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/14/learn",
+    "topic_file": "14_jobs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "money",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "job",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "work",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "doctor",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "dentist",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "nurse",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "teacher",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "engineer",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "actor",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "actress",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "police officer",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "waiter",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "waitress",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "driver",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "money",
+      "job",
+      "work",
+      "doctor",
+      "dentist",
+      "nurse",
+      "teacher",
+      "engineer",
+      "actor",
+      "actress",
+      "police officer",
+      "waiter",
+      "waitress",
+      "driver"
+    ]
+  },
+  {
+    "topic_title": "Clothes and Shoes",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/15/learn",
+    "topic_file": "15_clothes_and_shoes.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "clothes",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "shirt",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "T-shirt",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "pants",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "dress",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "skirt",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "coat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "jacket",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "jeans",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "sweater",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "suit",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "tie",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "hat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "purse",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "shoe",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "boot",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "sock",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "pajamas",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "underwear",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "swimsuit",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "clothes",
+      "shirt",
+      "T-shirt",
+      "pants",
+      "dress",
+      "skirt",
+      "coat",
+      "jacket",
+      "jeans",
+      "sweater",
+      "suit",
+      "tie",
+      "hat",
+      "purse",
+      "shoe",
+      "boot",
+      "sock",
+      "pajamas",
+      "underwear",
+      "swimsuit"
+    ]
+  },
+  {
+    "topic_title": "Animals",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/16/learn",
+    "topic_file": "16_animals.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "animal",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "cat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "dog",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "horse",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "sheep",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cow",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "pig",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "lion",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "rabbit",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "mouse",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "snake",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "fish",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "elephant",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "bird",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "chicken",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "animal",
+      "cat",
+      "dog",
+      "horse",
+      "sheep",
+      "cow",
+      "pig",
+      "lion",
+      "rabbit",
+      "mouse",
+      "snake",
+      "fish",
+      "elephant",
+      "bird",
+      "chicken"
+    ]
+  },
+  {
+    "topic_title": "Basic Verbs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/7/learn",
+    "topic_file": "17_basic_verbs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "to be",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "to wake up",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "to sleep",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "to work",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "to drive",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "to buy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "to sell",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "to read",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "to write",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "to play",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "to pay",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "to rest",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "to wash",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to drink",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "to cook",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "to eat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "to have",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "to make",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "to wear",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "to clean",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "to think",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "to take",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "to stand",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "to speak",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "to spell",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "to dislike",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "to add",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "to call",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "29",
+        "word": "to create",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "30",
+        "word": "to cut",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "to be",
+      "to wake up",
+      "to sleep",
+      "to work",
+      "to drive",
+      "to buy",
+      "to sell",
+      "to read",
+      "to write",
+      "to play",
+      "to pay",
+      "to rest",
+      "to wash",
+      "to drink",
+      "to cook",
+      "to eat",
+      "to have",
+      "to make",
+      "to wear",
+      "to clean",
+      "to think",
+      "to take",
+      "to stand",
+      "to speak",
+      "to spell",
+      "to dislike",
+      "to add",
+      "to call",
+      "to create",
+      "to cut"
+    ]
+  },
+  {
+    "topic_title": "Household Items",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/20/learn",
+    "topic_file": "18_household_items.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "dish",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "spoon",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "fork",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "knife",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "plate",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "glass",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "bottle",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "cup",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "soap",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "brush",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "toothbrush",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "pillow",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "trash can",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "box",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "thing",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "ball",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "doll",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "dish",
+      "spoon",
+      "fork",
+      "knife",
+      "plate",
+      "glass",
+      "bottle",
+      "cup",
+      "soap",
+      "brush",
+      "toothbrush",
+      "pillow",
+      "trash can",
+      "box",
+      "thing",
+      "ball",
+      "doll"
+    ]
+  },
+  {
+    "topic_title": "Food and Ingredients",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/21/learn",
+    "topic_file": "19_food_and_ingredients.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "food",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "meat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "fish",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "chicken",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "vegetable",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cucumber",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "potato",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "onion",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "tomato",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "carrot",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "pepper",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "fruit",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "apple",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "orange",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "grape",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "banana",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "peach",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "lemon",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "milk",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "cheese",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "butter",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "egg",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "cream",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "food",
+      "meat",
+      "fish",
+      "chicken",
+      "vegetable",
+      "cucumber",
+      "potato",
+      "onion",
+      "tomato",
+      "carrot",
+      "pepper",
+      "fruit",
+      "apple",
+      "orange",
+      "grape",
+      "banana",
+      "peach",
+      "lemon",
+      "milk",
+      "cheese",
+      "butter",
+      "egg",
+      "cream"
+    ]
+  },
+  {
+    "topic_title": "Food and Drinks",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/22/learn",
+    "topic_file": "20_food_and_drinks.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "meal",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "breakfast",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "lunch",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "dinner",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "tea",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "coffee",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "cake",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "cookie",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "bread",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "honey",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "jam",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "juice",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "ice cream",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "water",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "rice",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "chocolate milk",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "soup",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "salad",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "pizza",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "sandwich",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "sugar",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "salt",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "meal",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "tea",
+      "coffee",
+      "cake",
+      "cookie",
+      "bread",
+      "honey",
+      "jam",
+      "juice",
+      "ice cream",
+      "water",
+      "rice",
+      "chocolate milk",
+      "soup",
+      "salad",
+      "pizza",
+      "sandwich",
+      "sugar",
+      "salt"
+    ]
+  },
+  {
+    "topic_title": "The Weather and Nature",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/23/learn",
+    "topic_file": "21_the_weather_and_nature.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "weather",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "fire",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "hot",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "cold",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "sunny",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cloud",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "cloudy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "rain",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "rainy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "snowy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "ice",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "nature",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "sun",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "moon",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Earth",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "sky",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "river",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "sea",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "mountain",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "beach",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "forest",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "island",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "star",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "tree",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "flower",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "weather",
+      "fire",
+      "hot",
+      "cold",
+      "sunny",
+      "cloud",
+      "cloudy",
+      "rain",
+      "rainy",
+      "snowy",
+      "ice",
+      "nature",
+      "sun",
+      "moon",
+      "Earth",
+      "sky",
+      "river",
+      "sea",
+      "mountain",
+      "beach",
+      "forest",
+      "island",
+      "star",
+      "tree",
+      "flower"
+    ]
+  },
+  {
+    "topic_title": "Useful Verbs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/17/learn",
+    "topic_file": "22_useful_verbs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "to hear",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "to listen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "to see",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "to look",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "to watch",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "to touch",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "to feel",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "to talk",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "to call",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "to like",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "to love",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "to hate",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "to know",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to learn",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "to ask",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "to study",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "to teach",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "to need",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "to want",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "to share",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "to put",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "to prepare",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "to plan",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "to explain",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "to fill",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "to fly",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "to get",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "to become",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "to hear",
+      "to listen",
+      "to see",
+      "to look",
+      "to watch",
+      "to touch",
+      "to feel",
+      "to talk",
+      "to call",
+      "to like",
+      "to love",
+      "to hate",
+      "to know",
+      "to learn",
+      "to ask",
+      "to study",
+      "to teach",
+      "to need",
+      "to want",
+      "to share",
+      "to put",
+      "to prepare",
+      "to plan",
+      "to explain",
+      "to fill",
+      "to fly",
+      "to get",
+      "to become"
+    ]
+  },
+  {
+    "topic_title": "School",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/26/learn",
+    "topic_file": "23_school.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "school",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "college",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "university",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "preschool",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "classroom",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "student",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "book",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "notebook",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "bag",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "pen",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "pencil",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "eraser",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "marker",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "homework",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "history",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "language",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "science",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "class",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "school",
+      "college",
+      "university",
+      "preschool",
+      "classroom",
+      "student",
+      "book",
+      "notebook",
+      "bag",
+      "pen",
+      "pencil",
+      "eraser",
+      "marker",
+      "homework",
+      "history",
+      "language",
+      "science",
+      "class"
+    ]
+  },
+  {
+    "topic_title": "City",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/27/learn",
+    "topic_file": "24_city.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "city",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "town",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "street",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "bank",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "hospital",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "restaurant",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "movie theater",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "supermarket",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "post office",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "bench",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "museum",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "park",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "hotel",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "police",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "map",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "city",
+      "town",
+      "street",
+      "bank",
+      "hospital",
+      "restaurant",
+      "movie theater",
+      "supermarket",
+      "post office",
+      "bench",
+      "museum",
+      "park",
+      "hotel",
+      "police",
+      "map"
+    ]
+  },
+  {
+    "topic_title": "Free Time Activities",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/28/learn",
+    "topic_file": "25_free_time_activities.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "hobby",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "movie",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "music",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "guitar",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "piano",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "violin",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "swimming",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "soccer",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "volleyball",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "hiking",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "tennis",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "bicycle",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "sport",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "game",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "video game",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "newspaper",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "magazine",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "hobby",
+      "movie",
+      "music",
+      "guitar",
+      "piano",
+      "violin",
+      "swimming",
+      "soccer",
+      "volleyball",
+      "hiking",
+      "tennis",
+      "bicycle",
+      "sport",
+      "game",
+      "video game",
+      "newspaper",
+      "magazine"
+    ]
+  },
+  {
+    "topic_title": "Countries and Nationalities",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/498/learn",
+    "topic_file": "26_countries_and_nationalities.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "country",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "the United States",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "American",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "Canada",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "Canadian",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "United Kingdom",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "British",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "Germany",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "German",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "France",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "French",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "Spain",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "Spanish",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "Italy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Italian",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "country",
+      "the United States",
+      "American",
+      "Canada",
+      "Canadian",
+      "United Kingdom",
+      "British",
+      "Germany",
+      "German",
+      "France",
+      "French",
+      "Spain",
+      "Spanish",
+      "Italy",
+      "Italian"
+    ]
+  },
+  {
+    "topic_title": "Simple Verbs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/18/learn",
+    "topic_file": "27_simple_verbs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "to walk",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "to run",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "to go",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "to come",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "to sit",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "to fall",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "to jump",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "to bring",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "to give",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "to find",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "to open",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "to close",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "to start",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to stop",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "to finish",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "to build",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "to do",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "to get",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "to turn",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "to introduce",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "to travel",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "to let",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "to choose",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "to help",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "to swim",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "to walk",
+      "to run",
+      "to go",
+      "to come",
+      "to sit",
+      "to fall",
+      "to jump",
+      "to bring",
+      "to give",
+      "to find",
+      "to open",
+      "to close",
+      "to start",
+      "to stop",
+      "to finish",
+      "to build",
+      "to do",
+      "to get",
+      "to turn",
+      "to introduce",
+      "to travel",
+      "to let",
+      "to choose",
+      "to help",
+      "to swim"
+    ]
+  },
+  {
+    "topic_title": "Transportation",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/501/learn",
+    "topic_file": "28_transportation.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "car",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "motorcycle",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "bus",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "truck",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "train",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "taxi",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "subway",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "airplane",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "helicopter",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "ship",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "boat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "ticket",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "van",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "station",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "airport",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "train station",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "car",
+      "motorcycle",
+      "bus",
+      "truck",
+      "train",
+      "taxi",
+      "subway",
+      "airplane",
+      "helicopter",
+      "ship",
+      "boat",
+      "ticket",
+      "van",
+      "station",
+      "airport",
+      "train station"
+    ]
+  },
+  {
+    "topic_title": "Directions and Continents",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/502/learn",
+    "topic_file": "29_directions_and_continents.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "place",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "north",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "south",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "east",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "west",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "back",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "right",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "left",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "far",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "continent",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "Asia",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "Asian",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "Europe",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "European",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Africa",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "African",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "place",
+      "north",
+      "south",
+      "east",
+      "west",
+      "back",
+      "right",
+      "left",
+      "far",
+      "continent",
+      "Asia",
+      "Asian",
+      "Europe",
+      "European",
+      "Africa",
+      "African"
+    ]
+  },
+  {
+    "topic_title": "Adverbs and Pronouns",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/503/learn",
+    "topic_file": "30_adverbs_and_pronouns.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "outside",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "always",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "never",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "usually",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "often",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "sometimes",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "now",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "soon",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "too",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "here",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "there",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "again",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "of course",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "really",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "why",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "where",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "when",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "what",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "who",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "how",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "else",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "outside",
+      "always",
+      "never",
+      "usually",
+      "often",
+      "sometimes",
+      "now",
+      "soon",
+      "too",
+      "here",
+      "there",
+      "again",
+      "of course",
+      "really",
+      "why",
+      "where",
+      "when",
+      "what",
+      "who",
+      "how",
+      "else"
+    ]
+  },
+  {
+    "topic_title": "Prepositions and Determiners",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/743/learn",
+    "topic_file": "31_prepositions_and_determiners.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "before",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "after",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "at",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "in",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "on",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "below",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "above",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "across",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "near",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "between",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "next to",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "behind",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "with",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "another",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "this",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "that",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "both",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "what",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "a",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "over",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "under",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "before",
+      "after",
+      "at",
+      "in",
+      "on",
+      "below",
+      "above",
+      "across",
+      "near",
+      "between",
+      "next to",
+      "behind",
+      "with",
+      "to",
+      "another",
+      "this",
+      "that",
+      "both",
+      "what",
+      "a",
+      "over",
+      "under"
+    ]
+  },
+  {
+    "topic_title": "Describing People",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/745/learn",
+    "topic_file": "32_describing_people.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "young",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "old",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "stupid",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "thirsty",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "fat",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "thin",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "tall",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "short",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "smart",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "angry",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "fine",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "sad",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "happy",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "hungry",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "excited",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "ready",
+        "phonetic": "",
+        "example": "",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "young",
+      "old",
+      "stupid",
+      "thirsty",
+      "fat",
+      "thin",
+      "tall",
+      "short",
+      "smart",
+      "angry",
+      "fine",
+      "sad",
+      "happy",
+      "hungry",
+      "excited",
+      "ready"
+    ]
+  }
+]

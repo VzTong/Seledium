@@ -1,0 +1,5803 @@
+[
+  {
+    "topic_title": "Hello and Goodbye",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/1/learn",
+    "topic_file": "01_hello_and_goodbye.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "hello",
+        "phonetic": "/həˈloʊ/",
+        "example": "Hello, I am the new student and my name is Sarah.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "goodbye",
+        "phonetic": "/ɡʊdˈbaɪ/",
+        "example": "Goodbye, I hope to see you again.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "hi",
+        "phonetic": "/haɪ/",
+        "example": "Hi, nice to meet you.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "bye",
+        "phonetic": "/baɪ/",
+        "example": "Bye! Have a great day!",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "good morning",
+        "phonetic": "/ɡʊd ˈmɔrnɪŋ/",
+        "example": "Good morning, it's a beautiful day today!",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "good afternoon",
+        "phonetic": "/ɡʊd ˌæftərˈnuːn/",
+        "example": "Good afternoon, have you finished your work for today?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "good evening",
+        "phonetic": "/ɡʊd ˈiːvnɪŋ/",
+        "example": "Good evening, I hope you had a pleasant day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "good night",
+        "phonetic": "/ɡʊd ˈnaɪt/",
+        "example": "Good night, don't forget to brush your teeth before bed.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "thank you",
+        "phonetic": "/θæŋk juː/",
+        "example": "Thank you for being there when I needed someone.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "thanks",
+        "phonetic": "/θæŋks/",
+        "example": "Thanks for the help!",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "please",
+        "phonetic": "/pliːz/",
+        "example": "Be quiet, please.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "OK",
+        "phonetic": "/ˌoʊkˈeɪ/",
+        "example": "Ok, I'll finish my homework before watching TV.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "yes",
+        "phonetic": "/jɛs/",
+        "example": "Yes, he is my friend.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "no",
+        "phonetic": "/noʊ/",
+        "example": "Did you call her? — No.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "sorry",
+        "phonetic": "/ˈsɑːri/",
+        "example": "Sorry, I forgot to bring my umbrella.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "welcome",
+        "phonetic": "/ˈwɛlkəm/",
+        "example": "Welcome, Come on in and make yourself at home.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "hello",
+      "goodbye",
+      "hi",
+      "bye",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "good night",
+      "thank you",
+      "thanks",
+      "please",
+      "OK",
+      "yes",
+      "no",
+      "sorry",
+      "welcome"
+    ]
+  },
+  {
+    "topic_title": "People",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/19/learn",
+    "topic_file": "02_people.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "man",
+        "phonetic": "/mæn/",
+        "example": "This is my friend, he's a nice man.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "woman",
+        "phonetic": "/ˈwʊmən/",
+        "example": "This is my sister; she's a kind woman.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "boy",
+        "phonetic": "/bɔɪ/",
+        "example": "This is my little brother; he's a playful boy.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "girl",
+        "phonetic": "/ɡɝl/",
+        "example": "This is my friend; she's a cheerful girl.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "friend",
+        "phonetic": "/frɛnd/",
+        "example": "David and Samantha became friends after meeting at a book club and discovered their shared passion for literature.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "boyfriend",
+        "phonetic": "/ˈbɔɪfrɛnd/",
+        "example": "\"Will you be my boyfriend?\" she asked, hoping for a positive response.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "girlfriend",
+        "phonetic": "/ˈɡɝlfrɛnd/",
+        "example": "\"Will you be my girlfriend?\" he asked, hoping for a positive response.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "person",
+        "phonetic": "/ˈpɝsən/",
+        "example": "As a responsible person, it is important to be mindful of our impact on the environment.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "people",
+        "phonetic": "/ˈpi:pəl/",
+        "example": "It is important to listen to the voices of the people and address their concerns.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "adult",
+        "phonetic": "/əˈdʌlt/, /ˈædʌlt/",
+        "example": "Adults have the freedom to make their own decisions and choices.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "baby",
+        "phonetic": "/ˈbeɪbi/",
+        "example": "A babysitter was hired to take care of the baby while the parents were out.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "Mr",
+        "phonetic": "/ˈmɪstɚ/",
+        "example": "Mr. Lee is the teacher in charge of the science department.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "Mrs",
+        "phonetic": "/ˈmɪsɪz/",
+        "example": "Mrs. Smith will chair the committee meeting tomorrow.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "miss",
+        "phonetic": "/mɪs/",
+        "example": "Miss Johnson greeted the guests with a warm smile as they arrived at the party.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "man",
+      "woman",
+      "boy",
+      "girl",
+      "friend",
+      "boyfriend",
+      "girlfriend",
+      "person",
+      "people",
+      "adult",
+      "baby",
+      "Mr",
+      "Mrs",
+      "miss"
+    ]
+  },
+  {
+    "topic_title": "Numbers 0 to 100",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/2/learn",
+    "topic_file": "03_numbers_0_to_100.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "zero",
+        "phonetic": "/ˈziːroʊ/",
+        "example": "I have zero dollars in my wallet.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "one",
+        "phonetic": "/wʌn/",
+        "example": "I have one book.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "two",
+        "phonetic": "/tuː/",
+        "example": "I need to make two copies of this document.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "three",
+        "phonetic": "/θriː/",
+        "example": "I counted to three before jumping into the pool.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "four",
+        "phonetic": "/fɔːr/",
+        "example": "There are four seasons in a year: spring, summer, autumn, and winter.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "five",
+        "phonetic": "/faɪv/",
+        "example": "His favorite number was five, and he always wore a shirt with the number on it to sports games.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "six",
+        "phonetic": "/sɪks/",
+        "example": "The highest number you can roll on a single die is six.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "seven",
+        "phonetic": "/ˈsɛvən/",
+        "example": "His lucky number is seven, and he always wears a necklace with a seven pendant.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "eight",
+        "phonetic": "/eɪt/",
+        "example": "The recipe called for eight ounces of flour, which is about one cup.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "nine",
+        "phonetic": "/naɪn/",
+        "example": "The baseball team has nine players on the field at a time.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "ten",
+        "phonetic": "/tɛn/",
+        "example": "The soccer team has ten players on the field at a time.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "eleven",
+        "phonetic": "/ɪˈlɛvən/",
+        "example": "My little son knows that eleven is one more than ten.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "twelve",
+        "phonetic": "/twɛlv/",
+        "example": "My son reads twelve pages of his book every day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "thirteen",
+        "phonetic": "/ˈθɜrtiːn/",
+        "example": "I have thirteen stamps in my collection.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "fourteen",
+        "phonetic": "/ˈfɔrtiːn/",
+        "example": "She was born fourteen years ago, and there are now fourteen candles on her birthday cake.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "fifteen",
+        "phonetic": "/ˈfɪftiːn/",
+        "example": "I turned fifteen years old last week, and I celebrated my birthday with my friends.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "sixteen",
+        "phonetic": "/ˈsɪkstiːn/",
+        "example": "She has sixteen unread messages in her inbox.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "seventeen",
+        "phonetic": "/ˈsɛvntiːn/",
+        "example": "She bought seventeen books from the bookstore.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "eighteen",
+        "phonetic": "/ˈeɪtiːn/",
+        "example": "He has been working at his job for eighteen years.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "nineteen",
+        "phonetic": "/ˈnaɪntiːn/",
+        "example": "The car was manufactured in the year nineteen ninety-eight.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "twenty",
+        "phonetic": "/ˈtwɛnti/",
+        "example": "The distance between the two cities is twenty kilometers.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "thirty",
+        "phonetic": "/ˈθɜrti/",
+        "example": "The recipe calls for thirty grams of sugar.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "forty",
+        "phonetic": "/ˈfɔrti/",
+        "example": "My dad works forty hours a week.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "fifty",
+        "phonetic": "/ˈfɪfti/",
+        "example": "She celebrated her fiftieth birthday with a big party surrounded by family and friends.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "sixty",
+        "phonetic": "/ˈsɪksti/",
+        "example": "She found a vintage photograph of her parents from their wedding day, nearly sixty years ago.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "seventy",
+        "phonetic": "/ˈsɛvnti/",
+        "example": "The marathon was attended by over seventy runners from different countries.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "eighty",
+        "phonetic": "/ˈeɪti/",
+        "example": "The temperature today is expected to reach eighty degrees Fahrenheit, perfect for a picnic.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "ninety",
+        "phonetic": "/ˈnaɪnti/",
+        "example": "The student received a ninety on her math exam, earning her an A for the semester.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "29",
+        "word": "hundred",
+        "phonetic": "/ˈhʌndrəd/",
+        "example": "She saved up a hundred dollars to buy a new bicycle for her daily commute.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "zero",
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten",
+      "eleven",
+      "twelve",
+      "thirteen",
+      "fourteen",
+      "fifteen",
+      "sixteen",
+      "seventeen",
+      "eighteen",
+      "nineteen",
+      "twenty",
+      "thirty",
+      "forty",
+      "fifty",
+      "sixty",
+      "seventy",
+      "eighty",
+      "ninety",
+      "hundred"
+    ]
+  },
+  {
+    "topic_title": "Family",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/3/learn",
+    "topic_file": "04_family.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "parent",
+        "phonetic": "/ˈpɛrənt/",
+        "example": "As a single parent, she worked tirelessly to provide for her family and ensure their well-being.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "father",
+        "phonetic": "/ˈfɑːðɚ/",
+        "example": "As a father, he takes great joy in spending quality time with his children and creating lasting memories.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "mother",
+        "phonetic": "/ˈmʌðɚ/",
+        "example": "Mothers play a vital role in nurturing and shaping their children's lives.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "dad",
+        "phonetic": "/dæd/",
+        "example": "Dad, can we go to the park and play catch this afternoon?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "mom",
+        "phonetic": "/mɑːm/",
+        "example": "Mom, can you help me with my homework? I'm having trouble understanding this math problem.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "wife",
+        "phonetic": "/waɪf/",
+        "example": "As a devoted wife, she takes care of the household chores and ensures a comfortable home for her family.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "husband",
+        "phonetic": "/ˈhʌzbənd/",
+        "example": "As a loving husband, he surprises his wife with romantic gestures on special occasions.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "child",
+        "phonetic": "/tʃaɪld/",
+        "example": "She read a bedtime story to her child every night before tucking them into bed.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "son",
+        "phonetic": "/sʌn/",
+        "example": "John is a loving father who takes great pride in raising his two sons.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "daughter",
+        "phonetic": "/ˈdɔːtɚ/",
+        "example": "Emily couldn't wait to meet her newborn daughter and hold her in her arms for the first time.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "sister",
+        "phonetic": "/ˈsɪstɚ/",
+        "example": "My dad has two sisters, both of whom are older than him.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "brother",
+        "phonetic": "/ˈbrʌðɚ/",
+        "example": "Emily's brother likes to play video games and watch sports on TV.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "family",
+        "phonetic": "/ˈfæməli/, /ˈfæmli/",
+        "example": "Family is important to me because they support me when I need it.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "grandmother",
+        "phonetic": "/ˈɡrænˌmʌðɚ/",
+        "example": "Grandmothers love spending time with their grandchildren and spoil them with candy.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "grandfather",
+        "phonetic": "/ˈɡrænˌfɑːðɚ/",
+        "example": "He enjoys spending time with his grandfather, playing chess and telling jokes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "grandchild",
+        "phonetic": "/ˈɡrænˌtʃaɪld/",
+        "example": "He takes his grandchild to the zoo and teaches them about different animals.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "aunt",
+        "phonetic": "/ænt/, /ɑːnt/",
+        "example": "Anne's aunt always sends her birthday cards and gifts.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "uncle",
+        "phonetic": "/ˈʌŋkəl/",
+        "example": "His uncle is like a second father to him.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "niece",
+        "phonetic": "/niːs/",
+        "example": "He loves spending time with his niece, teaching her how to play guitar.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "nephew",
+        "phonetic": "/ˈnɛfju/",
+        "example": "I bought a toy for my nephew's birthday.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "cousin",
+        "phonetic": "/ˈkʌzən/",
+        "example": "Her cousin is like a brother to her, and they share many interests and hobbies.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "parent",
+      "father",
+      "mother",
+      "dad",
+      "mom",
+      "wife",
+      "husband",
+      "child",
+      "son",
+      "daughter",
+      "sister",
+      "brother",
+      "family",
+      "grandmother",
+      "grandfather",
+      "grandchild",
+      "aunt",
+      "uncle",
+      "niece",
+      "nephew",
+      "cousin"
+    ]
+  },
+  {
+    "topic_title": "Colors",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/4/learn",
+    "topic_file": "05_colors.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "black",
+        "phonetic": "/blæk/",
+        "example": "A black raven is flying across the night sky.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "white",
+        "phonetic": "/waɪt/",
+        "example": "His teeth are white and shiny, thanks to regular brushing and flossing.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "blue",
+        "phonetic": "/bluː/",
+        "example": "My mother has blue eyes and black hair.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "green",
+        "phonetic": "/ɡriːn/",
+        "example": "His eyes were a striking green shade, like emeralds.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "yellow",
+        "phonetic": "/ˈjɛloʊ/",
+        "example": "She drew a yellow sun on the corner of the paper.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "red",
+        "phonetic": "/rɛd/",
+        "example": "He got a cut, and red blood came out.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "pink",
+        "phonetic": "/pɪŋk/",
+        "example": "She wore a pink dress to the wedding, which complimented her rosy cheeks.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "orange",
+        "phonetic": "/ˈɔːrɪndʒ/",
+        "example": "He ate an orange carrot for a snack.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "purple",
+        "phonetic": "/ˈpɝːpəl/",
+        "example": "I carefully peeled the purple eggplant to cook it for dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "gray",
+        "phonetic": "/ɡreɪ/",
+        "example": "My grandmother's hair is gray.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "brown",
+        "phonetic": "/braʊn/",
+        "example": "The table was made of rich, brown wood.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "dark",
+        "phonetic": "/dɑrk/",
+        "example": "She wore a dark blue dress to the event.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "light",
+        "phonetic": "/laɪt/",
+        "example": "She prefers to wear light colors in the summer to stay cool.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "color",
+        "phonetic": "/ˈkʌlɚ/",
+        "example": "The artist mixed different colors to create a masterpiece.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "black",
+      "white",
+      "blue",
+      "green",
+      "yellow",
+      "red",
+      "pink",
+      "orange",
+      "purple",
+      "gray",
+      "brown",
+      "dark",
+      "light",
+      "color"
+    ]
+  },
+  {
+    "topic_title": "Months and Seasons",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/5/learn",
+    "topic_file": "06_months_and_seasons.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "month",
+        "phonetic": "/mʌnθ/",
+        "example": "I like to set goals for myself at the start of each month.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "January",
+        "phonetic": "/ˈdʒænjuˌɛri/",
+        "example": "In January, we celebrate the start of the new year with fireworks and joy.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "February",
+        "phonetic": "/ˈfɛbjuˌɛri/",
+        "example": "During February, the days gradually start getting longer as we move closer to spring.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "March",
+        "phonetic": "/mɑrtʃ/",
+        "example": "March is a month when the weather starts to get warmer.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "April",
+        "phonetic": "/ˈeɪprəl/",
+        "example": "Earth Day is observed on April 22nd to promote environmental awareness.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "May",
+        "phonetic": "/meɪ/",
+        "example": "Many flowers bloom in May, such as tulips and daisies.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "June",
+        "phonetic": "/dʒuːn/",
+        "example": "June is a month filled with outdoor activities like swimming, camping, and barbecues.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "July",
+        "phonetic": "/dʒuˈlaɪ/",
+        "example": "Fireworks displays are common in many countries during the month of July.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "August",
+        "phonetic": "/ˈɔːɡəst/",
+        "example": "August marks the end of summer and the beginning of autumn in some parts of the world.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "September",
+        "phonetic": "/sɛpˈtɛmbɚ/",
+        "example": "In September, the weather starts to cool down as autumn approaches.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "October",
+        "phonetic": "/ɑkˈtoʊbɚ/",
+        "example": "Halloween is celebrated on the last day of October.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "November",
+        "phonetic": "/noʊˈvɛmbɚ/",
+        "example": "Many people enjoy watching the colorful leaves fall from the trees in November.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "December",
+        "phonetic": "/dɪˈsɛmbɚ/",
+        "example": "December is the last month of the year.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "season",
+        "phonetic": "/ˈsiːzən/",
+        "example": "During the spring season, my son enjoys swimming in the pool.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "spring",
+        "phonetic": "/sprɪŋ/",
+        "example": "His favorite season is spring, when the weather is mild and the flowers are in full bloom.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "summer",
+        "phonetic": "/ˈsʌmɚ/",
+        "example": "I enjoy eating ice cream to cool down in the hot summer months.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "fall",
+        "phonetic": "/fɑl/",
+        "example": "Fall is the season when students go back to school after summer break.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "winter",
+        "phonetic": "/ˈwɪntɚ/",
+        "example": "It's fun to go skiing or snowboarding on the mountains in winter.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+      "season",
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ]
+  },
+  {
+    "topic_title": "Time and Date",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/6/learn",
+    "topic_file": "07_time_and_date.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "clock",
+        "phonetic": "/klɑk/",
+        "example": "I enjoy watching the hands of the clock move as time goes by.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "year",
+        "phonetic": "/jɪr/",
+        "example": "I'm looking forward to the new year and the opportunities it may bring.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "time",
+        "phonetic": "/taɪm/",
+        "example": "I need more time to complete this project.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "date",
+        "phonetic": "/deɪt/",
+        "example": "I need to check my calendar to see if I'm available on that date.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "day",
+        "phonetic": "/deɪ/",
+        "example": "I like to have a cup of tea in the evening to relax after a long day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "hour",
+        "phonetic": "/aʊɚ/",
+        "example": "I have a deadline in three hours, so I need to work quickly.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "o'clock",
+        "phonetic": "/əˈklɑk/",
+        "example": "I usually go to bed around 11 o'clock.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "minute",
+        "phonetic": "/ˈmɪnɪt/",
+        "example": "I like to take a short break every 30 minutes of studying.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "second",
+        "phonetic": "/ˈsɛkənd/",
+        "example": "She won the race by just 22 seconds.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "morning",
+        "phonetic": "/ˈmɔrnɪŋ/",
+        "example": "I have a morning routine that includes brushing my teeth and getting dressed.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "afternoon",
+        "phonetic": "/ˌæftɚˈnuːn/",
+        "example": "He likes to take a walk in the park during the afternoon.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "evening",
+        "phonetic": "/ˈivnɪŋ/",
+        "example": "I enjoy having dinner with my family in the evening.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "night",
+        "phonetic": "/naɪt/",
+        "example": "I like to read a book before bed at night.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "week",
+        "phonetic": "/wiːk/",
+        "example": "He tries to exercise at least three times a week.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Sunday",
+        "phonetic": "/ˈsʌnˌdeɪ/",
+        "example": "I don't work on Sundays; it's my day off.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "Monday",
+        "phonetic": "/ˈmʌnˌdeɪ/",
+        "example": "I have a team meeting every Monday afternoon.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "Tuesday",
+        "phonetic": "/ˈtuːzˌdeɪ/",
+        "example": "Harry uses Tuesdays to plan his goals for the rest of the week.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "Wednesday",
+        "phonetic": "/ˈwɛnzˌdeɪ/",
+        "example": "I eat pizza on Wednesdays.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "Thursday",
+        "phonetic": "/ˈθɝzˌdeɪ/",
+        "example": "I have a dentist appointment on Thursday.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "Friday",
+        "phonetic": "/ˈfraɪˌdeɪ/",
+        "example": "Friday is the last day of the workweek for many people, signaling the start of the weekend.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "Saturday",
+        "phonetic": "/ˈsæˌtɝˌdeɪ/",
+        "example": "I enjoy attending cultural events like concerts or theater performances on Saturdays.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "weekend",
+        "phonetic": "/ˈwiːkˌɛnd/",
+        "example": "I like to sleep in and have a late breakfast on the weekends.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "next",
+        "phonetic": "/nɛkst/",
+        "example": "I'm excited about the next episode of my favorite TV show.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "half",
+        "phonetic": "/hæf/",
+        "example": "I ate a sandwich and a half for lunch.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "clock",
+      "year",
+      "time",
+      "date",
+      "day",
+      "hour",
+      "o'clock",
+      "minute",
+      "second",
+      "morning",
+      "afternoon",
+      "evening",
+      "night",
+      "week",
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "weekend",
+      "next",
+      "half"
+    ]
+  },
+  {
+    "topic_title": "Personal Information",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/500/learn",
+    "topic_file": "08_personal_information.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "name",
+        "phonetic": "/neɪm/",
+        "example": "He introduced himself by saying, \"Hi, my name is Alex.\"",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "last name",
+        "phonetic": "/læst neɪm/",
+        "example": "In many cultures, the last name is passed down from the father's side of the family.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "age",
+        "phonetic": "/eɪdʒ/",
+        "example": "Age is just a number; it doesn't define your capabilities.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "address",
+        "phonetic": "/ˈædˌrɛs/, /əˈdrɛs/",
+        "example": "He memorized his girlfriend's address by heart.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "birthday",
+        "phonetic": "/ˈbɝːθˌdeɪ/",
+        "example": "He invited all his friends to his birthday party at the park.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "birthdate",
+        "phonetic": "/ˈbɝːθˌdeɪt/",
+        "example": "His birthdate falls on a holiday this year, making it extra special and memorable.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "single",
+        "phonetic": "/ˈsɪŋɡəl/",
+        "example": "Being single allows me to explore my interests and hobbies freely.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "married",
+        "phonetic": "/ˈmæˌrid/",
+        "example": "He is married and has two children",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "passport",
+        "phonetic": "/ˈpæˌspɔrt/",
+        "example": "Don't forget to bring your passport when you travel abroad.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "phone number",
+        "phonetic": "/foʊn ˈnʌmbɚ/",
+        "example": "Can you please give me your phone number so I can call you?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "question",
+        "phonetic": "/ˈkwɛsʧən/",
+        "example": "Can I ask you a question about the homework?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "answer",
+        "phonetic": "/ˈænsɚ/",
+        "example": "She provided a concise answer to the interviewer's question during the job interview.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "name",
+      "last name",
+      "age",
+      "address",
+      "birthday",
+      "birthdate",
+      "single",
+      "married",
+      "passport",
+      "phone number",
+      "question",
+      "answer"
+    ]
+  },
+  {
+    "topic_title": "The Body",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/8/learn",
+    "topic_file": "09_the_body.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "body",
+        "phonetic": "/ˈbɑːdi/",
+        "example": "She enjoys yoga because it helps her connect with her body and find inner balance.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "hand",
+        "phonetic": "/hænd/",
+        "example": "He gave me a high-five, slapping his hand against mine.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "arm",
+        "phonetic": "/ɑːrm/",
+        "example": "He got a sunburn on his arm after spending the day at the beach.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "foot",
+        "phonetic": "/fʊt/",
+        "example": "He traced patterns in the sand with his foot, leaving temporary imprints.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "head",
+        "phonetic": "/hɛd/",
+        "example": "The cat gently nudged its head against my hand, seeking affection.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "leg",
+        "phonetic": "/lɛg/",
+        "example": "He stretched his legs before going for a run to prevent muscle cramps.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "knee",
+        "phonetic": "/niː/",
+        "example": "He felt a sharp pain in his knee after twisting it during a sports activity.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "back",
+        "phonetic": "/bæk/",
+        "example": "He bent his back to lift the heavy box.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "stomach",
+        "phonetic": "/ˈstʌmək/",
+        "example": "He felt a sense of relief when the doctor assured him that his stomach issue was temporary.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "body",
+      "hand",
+      "arm",
+      "foot",
+      "head",
+      "leg",
+      "knee",
+      "back",
+      "stomach"
+    ]
+  },
+  {
+    "topic_title": "The Head and Face",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/9/learn",
+    "topic_file": "10_the_head_and_face.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "hair",
+        "phonetic": "/hɛr/",
+        "example": "He carefully combed his hair before going out.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "neck",
+        "phonetic": "/nɛk/",
+        "example": "He turned his head from side to side, testing the flexibility of his neck.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "face",
+        "phonetic": "/feɪs/",
+        "example": "He gently washed his face with warm water and soap.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "eye",
+        "phonetic": "/aɪ/",
+        "example": "He closed his eyes and took a deep breath.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "nose",
+        "phonetic": "/noʊz/",
+        "example": "He held his nose as he walked past the garbage can.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "ear",
+        "phonetic": "/ɪr/",
+        "example": "He listened attentively with her hand cupped behind her ear.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "cheek",
+        "phonetic": "/tʃiːk/",
+        "example": "He felt a tickling sensation as a butterfly landed on his cheek.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "chin",
+        "phonetic": "/tʃɪn/",
+        "example": "He gently rested his chin on her shoulder.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "mouth",
+        "phonetic": "/maʊθ/",
+        "example": "He chewed his food with his mouth closed, showing good manners.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "tooth",
+        "phonetic": "/tuːθ/",
+        "example": "He felt a sharp pain in his tooth and scheduled a dental appointment.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "lip",
+        "phonetic": "/lɪp/",
+        "example": "He kissed her gently on the lips.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "hair",
+      "neck",
+      "face",
+      "eye",
+      "nose",
+      "ear",
+      "cheek",
+      "chin",
+      "mouth",
+      "tooth",
+      "lip"
+    ]
+  },
+  {
+    "topic_title": "Opposite Adjectives",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/11/learn",
+    "topic_file": "11_opposite_adjectives.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "good",
+        "phonetic": "/ɡʊd/",
+        "example": "She has a good memory and can remember details easily.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "bad",
+        "phonetic": "/bæd/",
+        "example": "The movie was bad and not enjoyable to watch.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "high",
+        "phonetic": "/haɪ/",
+        "example": "She had a high fever and needed to see a doctor.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "low",
+        "phonetic": "/loʊ/",
+        "example": "She was raising three kids on a low income.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "big",
+        "phonetic": "/bɪɡ/",
+        "example": "They live in a big house.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "small",
+        "phonetic": "/smɔl/",
+        "example": "He had a small backpack that was easy to carry.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "heavy",
+        "phonetic": "/ˈhɛvi/",
+        "example": "He felt the weight of the heavy burden on his shoulders.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "light",
+        "phonetic": "/laɪt/",
+        "example": "He carried a light backpack filled with his school supplies.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "expensive",
+        "phonetic": "/ɪkˈspɛnsɪv/",
+        "example": "He bought an expensive watch as a gift for his father.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "cheap",
+        "phonetic": "/tʃiːp/",
+        "example": "He found a cheap flight deal for his vacation.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "old",
+        "phonetic": "/oʊld/",
+        "example": "He fixed an old clock that had stopped ticking.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "new",
+        "phonetic": "/njuː/, /nuː/",
+        "example": "The new software update includes several innovative features not seen before.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "beautiful",
+        "phonetic": "/ˈbjuːtɪfəl/",
+        "example": "He painted a beautiful portrait of his sister.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "ugly",
+        "phonetic": "/ˈʌɡli/",
+        "example": "Don't be so mean, calling someone ugly is not nice.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "clean",
+        "phonetic": "/kliːn/",
+        "example": "He washed his hands to keep them clean.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "dirty",
+        "phonetic": "/ˈdɝːti/",
+        "example": "He had a dirty face after playing in the mud.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "easy",
+        "phonetic": "/ˈiːzi/",
+        "example": "Cooking pasta is easy; you just boil water and add the noodles.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "difficult",
+        "phonetic": "/ˈdɪfɪˌkʌlt/",
+        "example": "Solving complex mathematical equations can be difficult without a strong understanding of mathematical principles.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "fast",
+        "phonetic": "/fæst/",
+        "example": "He had a fast response to emergency situations.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "slow",
+        "phonetic": "/sloʊ/",
+        "example": "He had a slow computer that took a long time to start up.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "different",
+        "phonetic": "/ˈdɪfɝːənt/",
+        "example": "He had a different perspective on the movie.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "same",
+        "phonetic": "/seɪm/",
+        "example": "I chose the same topic for my presentation as last year.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "right",
+        "phonetic": "/raɪt/",
+        "example": "He made the right decision after carefully considering all the options.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "wrong",
+        "phonetic": "/rɑŋ/",
+        "example": "He followed the wrong directions and got lost.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "open",
+        "phonetic": "/ˈoʊpən/",
+        "example": "He left the laptop open to continue working on his project.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "closed",
+        "phonetic": "/kloʊzd/",
+        "example": "He found a closed shop and had to look for another place to buy groceries.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "true",
+        "phonetic": "/truː/",
+        "example": "The statement she made about the project was true; everything was completed on time.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "false",
+        "phonetic": "/fɔls/",
+        "example": "He made a false claim about his achievements to impress others.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "29",
+        "word": "rich",
+        "phonetic": "/rɪtʃ/",
+        "example": "He invested wisely and became incredibly rich.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "30",
+        "word": "poor",
+        "phonetic": "/pʊr/ , /pɔːr/",
+        "example": "He wanted to help the poor family who were struggling to afford basic necessities like food and clothing.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "31",
+        "word": "sure",
+        "phonetic": "/ʃʊr/ , /ʃɔːr/",
+        "example": "Being sure of his memory, he recited the poem flawlessly in front of the audience.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "32",
+        "word": "unsure",
+        "phonetic": "/ʌnˈʃʊr/ , /ʌnˈʃɔːr/",
+        "example": "He was unsure if he wanted pizza or pasta for dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "33",
+        "word": "correct",
+        "phonetic": "/kəˈrɛkt/",
+        "example": "His correct pronunciation impressed everyone in the language class.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "34",
+        "word": "incorrect",
+        "phonetic": "/ˌɪnkəˈrɛkt/",
+        "example": "His answer was incorrect, so he didn't get full marks.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "good",
+      "bad",
+      "high",
+      "low",
+      "big",
+      "small",
+      "heavy",
+      "light",
+      "expensive",
+      "cheap",
+      "old",
+      "new",
+      "beautiful",
+      "ugly",
+      "clean",
+      "dirty",
+      "easy",
+      "difficult",
+      "fast",
+      "slow",
+      "different",
+      "same",
+      "right",
+      "wrong",
+      "open",
+      "closed",
+      "true",
+      "false",
+      "rich",
+      "poor",
+      "sure",
+      "unsure",
+      "correct",
+      "incorrect"
+    ]
+  },
+  {
+    "topic_title": "House and Apartment",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/12/learn",
+    "topic_file": "12_house_and_apartment.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "building",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "example": "He worked in a modern office building with large windows.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "house",
+        "phonetic": "/haʊs/",
+        "example": "She invited her friends over to her house for a birthday party.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "home",
+        "phonetic": "/hoʊm/",
+        "example": "The family moved into a new home in the suburbs.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "apartment",
+        "phonetic": "/əˈpɑːrtmənt/",
+        "example": "He rented an apartment in the city to be closer to his workplace.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "floor",
+        "phonetic": "/flɔːr/",
+        "example": "He swept the floor to remove the dust and dirt.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "door",
+        "phonetic": "/dɔːr/",
+        "example": "He closed the door behind him as he entered the room.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "window",
+        "phonetic": "/ˈwɪndoʊ/",
+        "example": "The gentle breeze flowed through the open window, bringing the scent of blooming flowers.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "wall",
+        "phonetic": "/wɔːl/",
+        "example": "He noticed a spider crawling up the wall.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "room",
+        "phonetic": "/ruːm/ , /rʊm/",
+        "example": "I have a big room with a window.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "roof",
+        "phonetic": "/ruːf/ , /rʊf/",
+        "example": "He placed solar panels on the roof to generate electricity.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "ceiling",
+        "phonetic": "/ˈsiːlɪŋ/",
+        "example": "He stood on a ladder to change a lightbulb on the ceiling.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "living room",
+        "phonetic": "/ˈlɪvɪŋ ruːm/",
+        "example": "She gathered with her family in the living room to play board games.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "dining room",
+        "phonetic": "/ˈdaɪnɪŋ ruːm/",
+        "example": "She cleans the dining room after each meal.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "kitchen",
+        "phonetic": "/ˈkɪtʃən/",
+        "example": "My mother believes that no one should leave the kitchen after a meal until they have completely cleaned it.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "bedroom",
+        "phonetic": "/ˈbɛdruːm/",
+        "example": "He kept his favorite toys on the shelves in his bedroom.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "bathroom",
+        "phonetic": "/ˈbæθruːm/ , /ˈbæθrʊm/",
+        "example": "He took a refreshing shower in the bathroom after a long day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "garden",
+        "phonetic": "/ˈɡɑːrdən/",
+        "example": "I like to take walks in the garden to admire the plants and listen to the birds.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "upstairs",
+        "phonetic": "/ˌʌpˈstɛrz/",
+        "example": "I prefer to sleep upstairs in the loft rather than downstairs.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "downstairs",
+        "phonetic": "/ˌdaʊnˈstɛrz/",
+        "example": "I left my bag downstairs in the entryway.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "closet",
+        "phonetic": "/ˈklɑːzɪt/",
+        "example": "She stored her clothes and shoes neatly in the closet.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "part",
+        "phonetic": "/pɑːrt/",
+        "example": "Asking questions is an integral part of gaining knowledge.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "elevator",
+        "phonetic": "/ˈɛləˌveɪtɚ/",
+        "example": "I felt a bit nervous when the elevator suddenly stopped between floors.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "yard",
+        "phonetic": "/jɑrd/",
+        "example": "I saw a squirrel running across the yard.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "building",
+      "house",
+      "home",
+      "apartment",
+      "floor",
+      "door",
+      "window",
+      "wall",
+      "room",
+      "roof",
+      "ceiling",
+      "living room",
+      "dining room",
+      "kitchen",
+      "bedroom",
+      "bathroom",
+      "garden",
+      "upstairs",
+      "downstairs",
+      "closet",
+      "part",
+      "elevator",
+      "yard"
+    ]
+  },
+  {
+    "topic_title": "Furniture and Home Appliances",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/13/learn",
+    "topic_file": "13_furniture_and_home_appliances.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "desk",
+        "phonetic": "/dɛsk/",
+        "example": "I have a picture frame with a family photo on my desk.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "chair",
+        "phonetic": "/tʃɛr/",
+        "example": "I placed my bag on the empty chair next to me.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "table",
+        "phonetic": "/ˈteɪbəl/",
+        "example": "I cleared the table after dinner and washed the dishes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "sofa",
+        "phonetic": "/ˈsoʊfə/",
+        "example": "I spilled some coffee on the sofa, so I quickly cleaned it up.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "bed",
+        "phonetic": "/bɛd/",
+        "example": "I have a bedside table next to my bed for my books and glasses.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cabinet",
+        "phonetic": "/ˈkæbənɪt/",
+        "example": "The cabinet doors are made of glass, allowing us to see inside.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "refrigerator",
+        "phonetic": "/rɪˈfrɪdʒəˌreɪtɚ/",
+        "example": "I opened the fridge to get a bottle of water.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "television",
+        "phonetic": "/ˈtɛləˌvɪʒən/",
+        "example": "She watched her favorite show on the TV last night.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "stove",
+        "phonetic": "/stoʊv/",
+        "example": "I accidentally burned my hand on the hot stove.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "desk",
+      "chair",
+      "table",
+      "sofa",
+      "bed",
+      "cabinet",
+      "refrigerator",
+      "television",
+      "stove"
+    ]
+  },
+  {
+    "topic_title": "Jobs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/14/learn",
+    "topic_file": "14_jobs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "money",
+        "phonetic": "/ˈmʌni/",
+        "example": "I really need to save money to buy a new bicycle.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "job",
+        "phonetic": "/dʒɑːb/",
+        "example": "He enjoys his job because it allows him to be creative.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "work",
+        "phonetic": "/wɝːk/",
+        "example": "During the summer break, she took up work as a tour guide.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "doctor",
+        "phonetic": "/ˈdɑːktɚ/",
+        "example": "I want to become a doctor so I can take care of people's health.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "dentist",
+        "phonetic": "/ˈdɛntɪst/",
+        "example": "I was nervous before my dental appointment, but the dentist made me feel comfortable.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "nurse",
+        "phonetic": "/nɝːs/",
+        "example": "I appreciate the hard work and dedication of nurses in keeping us healthy and safe.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "teacher",
+        "phonetic": "/ˈtiːtʃɚ/",
+        "example": "I raised my hand to give an answer when the teacher asked a question.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "engineer",
+        "phonetic": "/ˌɛnʤɪˈnɪr/",
+        "example": "An engineer's job is to apply scientific principles to solve engineering challenges.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "actor",
+        "phonetic": "/ˈæktɚ/",
+        "example": "Acting classes help aspiring actors develop their skills and techniques.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "actress",
+        "phonetic": "/ˈæktrəs/",
+        "example": "I saw a famous actress at the shopping mall today.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "police officer",
+        "phonetic": "/pəˈliːs ˈɑːfɪsɚ/",
+        "example": "The brave police officer rushed to the scene of the accident to provide assistance.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "waiter",
+        "phonetic": "/ˈweɪtɚ/",
+        "example": "Our waiter cleared the empty plates from the table.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "waitress",
+        "phonetic": "/ˈweɪtrəs/",
+        "example": "I asked the waitress for the bill after finishing my meal.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "driver",
+        "phonetic": "/ˈdraɪvɚ/",
+        "example": "I waved to the bus driver as I got off at my stop.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "money",
+      "job",
+      "work",
+      "doctor",
+      "dentist",
+      "nurse",
+      "teacher",
+      "engineer",
+      "actor",
+      "actress",
+      "police officer",
+      "waiter",
+      "waitress",
+      "driver"
+    ]
+  },
+  {
+    "topic_title": "Clothes and Shoes",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/15/learn",
+    "topic_file": "15_clothes_and_shoes.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "clothes",
+        "phonetic": "/kloʊðz/",
+        "example": "He always wears comfortable clothes when he goes for a run.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "shirt",
+        "phonetic": "/ʃɝːt/",
+        "example": "I need to iron my shirt before wearing it.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "T-shirt",
+        "phonetic": "/ˈtiː ʃɝːt/",
+        "example": "I spilled ketchup on my T-shirt while eating lunch.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "pants",
+        "phonetic": "/pænts/",
+        "example": "He is going to wear black pants and a white shirt for his job interview.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "dress",
+        "phonetic": "/drɛs/",
+        "example": "He asked her wife to wear a formal dress to the event.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "skirt",
+        "phonetic": "/skɝːt/",
+        "example": "I love twirling in my favorite skirt.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "coat",
+        "phonetic": "/koʊt/",
+        "example": "He buttoned up his coat to keep out the chilly wind.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "jacket",
+        "phonetic": "/ˈdʒækɪt/",
+        "example": "He put on his leather jacket before heading out on his motorcycle.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "jeans",
+        "phonetic": "/dʒiːnz/",
+        "example": "He bought a new pair of jeans that fit him perfectly.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "sweater",
+        "phonetic": "/ˈswɛtɚ/",
+        "example": "He bought a new sweater with a colorful pattern for me.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "suit",
+        "phonetic": "/suːt/",
+        "example": "He paired his suit with polished dress shoes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "tie",
+        "phonetic": "/taɪ/",
+        "example": "He adjusted his tie in the mirror to make sure it was straight.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "hat",
+        "phonetic": "/hæt/",
+        "example": "He wore a cowboy hat to complete his Western-themed outfit.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "purse",
+        "phonetic": "/pɝːs/",
+        "example": "He found a purse on the street and returned it to its owner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "shoe",
+        "phonetic": "/ʃuː/",
+        "example": "He polished his leather shoes to make them look shiny.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "boot",
+        "phonetic": "/buːt/",
+        "example": "I love the sound of my boots clicking on the wooden floor.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "sock",
+        "phonetic": "/sɑːk/",
+        "example": "He wore thick woolen socks to keep his feet cozy in the snow.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "pajamas",
+        "phonetic": "/pəˈdʒɑːməz/",
+        "example": "He forgot to change out of his pajamas before going to the store.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "underwear",
+        "phonetic": "/ˈʌndɚˌwɛr/",
+        "example": "He accidentally put his underwear on inside out.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "swimsuit",
+        "phonetic": "/ˈswɪmˌsuːt/",
+        "example": "He enjoys wearing his swimsuit at the water park on hot summer days.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "clothes",
+      "shirt",
+      "T-shirt",
+      "pants",
+      "dress",
+      "skirt",
+      "coat",
+      "jacket",
+      "jeans",
+      "sweater",
+      "suit",
+      "tie",
+      "hat",
+      "purse",
+      "shoe",
+      "boot",
+      "sock",
+      "pajamas",
+      "underwear",
+      "swimsuit"
+    ]
+  },
+  {
+    "topic_title": "Animals",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/16/learn",
+    "topic_file": "16_animals.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "animal",
+        "phonetic": "/ˈænɪməl/",
+        "example": "Birds are animals that can fly and build nests in trees.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "cat",
+        "phonetic": "/kæt/",
+        "example": "I heard a cat meowing outside my window.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "dog",
+        "phonetic": "/dɔːɡ/",
+        "example": "I found a lost dog and helped it find its owner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "horse",
+        "phonetic": "/hɔːrs/",
+        "example": "A beautiful white horse grazed peacefully in the meadow.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "sheep",
+        "phonetic": "/ʃiːp/",
+        "example": "A curious sheep approached me and sniffed my hand.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cow",
+        "phonetic": "/kaʊ/",
+        "example": "I learned about different breeds of cows and their characteristics.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "pig",
+        "phonetic": "/pɪɡ/",
+        "example": "I watched as the pig rooted around in the dirt for food.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "lion",
+        "phonetic": "/ˈlaɪən/",
+        "example": "I saw a lion hunting for prey in the tall grass.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "rabbit",
+        "phonetic": "/ˈræbɪt/",
+        "example": "I gave a carrot to the hungry rabbit.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "mouse",
+        "phonetic": "/maʊs/",
+        "example": "I gave some cheese to the hungry mouse.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "snake",
+        "phonetic": "/sneɪk/",
+        "example": "I watched as the snake swallowed its prey whole.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "fish",
+        "phonetic": "/fɪʃ/",
+        "example": "My dad took me fishing, and we caught a big fish.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "elephant",
+        "phonetic": "/ˈɛləfənt/",
+        "example": "Elephants are known for their intelligence and remarkable memory.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "bird",
+        "phonetic": "/bɜrd/",
+        "example": "I saw a bird pecking at the ground searching for food.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "chicken",
+        "phonetic": "/ˈtʃɪkən/",
+        "example": "My grandfather used to raise chickens on his farm.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "animal",
+      "cat",
+      "dog",
+      "horse",
+      "sheep",
+      "cow",
+      "pig",
+      "lion",
+      "rabbit",
+      "mouse",
+      "snake",
+      "fish",
+      "elephant",
+      "bird",
+      "chicken"
+    ]
+  },
+  {
+    "topic_title": "Basic Verbs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/7/learn",
+    "topic_file": "17_basic_verbs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "to be",
+        "phonetic": "/biː/",
+        "example": "Is there a solution to this complex problem?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "to wake up",
+        "phonetic": "/ˈweɪk ˈʌp/",
+        "example": "I remind her to wake up early for her flight tomorrow.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "to sleep",
+        "phonetic": "/sliːp/",
+        "example": "After a long day of work, I like to relax and sleep to recharge my energy.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "to work",
+        "phonetic": "/wɝːk/",
+        "example": "Both of my siblings work full-time jobs.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "to drive",
+        "phonetic": "/draɪv/",
+        "example": "You should drive with both hands on the steering wheel.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "to buy",
+        "phonetic": "/baɪ/",
+        "example": "I need to buy groceries for dinner tonight.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "to sell",
+        "phonetic": "/sɛl/",
+        "example": "Are you planning to sell your house in the near future?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "to read",
+        "phonetic": "/riːd/",
+        "example": "I can read this book easily.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "to write",
+        "phonetic": "/raɪt/",
+        "example": "Can you write your address on this form?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "to play",
+        "phonetic": "/pleɪ/",
+        "example": "A group of kids were playing tag in the park.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "to pay",
+        "phonetic": "/peɪ/",
+        "example": "She paid the repairman to fix her broken dishwasher.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "to rest",
+        "phonetic": "/rɛst/",
+        "example": "After a long day at work, I like to rest on the couch and watch TV.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "to wash",
+        "phonetic": "/wɑːʃ/ , /wɒʃ/",
+        "example": "I always wash my hands before eating.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to drink",
+        "phonetic": "/drɪŋk/",
+        "example": "He prefers to drink hot chocolate in the winter, not in the summer.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "to cook",
+        "phonetic": "/kʊk/",
+        "example": "I love to cook scrambled eggs with cheese for breakfast.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "to eat",
+        "phonetic": "/iːt/",
+        "example": "They enjoy eating pizza on Friday nights.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "to have",
+        "phonetic": "/hæv/",
+        "example": "Let's have breakfast together before we start our day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "to make",
+        "phonetic": "/meɪk/",
+        "example": "The students will make a model of the solar system for the science fair.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "to wear",
+        "phonetic": "/wɛr/",
+        "example": "She decided to wear a beautiful dress to the party.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "to clean",
+        "phonetic": "/kliːn/",
+        "example": "I need to clean my glasses; they are dirty.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "to think",
+        "phonetic": "/θɪŋk/",
+        "example": "He thinks that the restaurant serves the best pizza in town.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "to take",
+        "phonetic": "/teɪk/",
+        "example": "He took the cup of coffee from the table and sipped it slowly.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "to stand",
+        "phonetic": "/stænd/",
+        "example": "He likes to stand on the balcony to feel the breeze.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "to speak",
+        "phonetic": "/spiːk/",
+        "example": "He spoke about his experiences during the meeting.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "to spell",
+        "phonetic": "/spɛl/",
+        "example": "He struggles to spell the word \"restaurant\" correctly.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "to dislike",
+        "phonetic": "/dɪsˈlaɪk/",
+        "example": "He dislikes cold weather; he prefers warmer climates.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "to add",
+        "phonetic": "/æd/",
+        "example": "An extra paragraph was added to the report for additional information.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "to call",
+        "phonetic": "/kɔːl/",
+        "example": "Do you know anyone called Emily?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "29",
+        "word": "to create",
+        "phonetic": "/kriˈeɪt/",
+        "example": "Many entrepreneurs aspire to create successful businesses.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "30",
+        "word": "to cut",
+        "phonetic": "/kʌt/",
+        "example": "I cut the paper with scissors to make a snowflake.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "to be",
+      "to wake up",
+      "to sleep",
+      "to work",
+      "to drive",
+      "to buy",
+      "to sell",
+      "to read",
+      "to write",
+      "to play",
+      "to pay",
+      "to rest",
+      "to wash",
+      "to drink",
+      "to cook",
+      "to eat",
+      "to have",
+      "to make",
+      "to wear",
+      "to clean",
+      "to think",
+      "to take",
+      "to stand",
+      "to speak",
+      "to spell",
+      "to dislike",
+      "to add",
+      "to call",
+      "to create",
+      "to cut"
+    ]
+  },
+  {
+    "topic_title": "Household Items",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/20/learn",
+    "topic_file": "18_household_items.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "dish",
+        "phonetic": "/dɪʃ/",
+        "example": "I cooked the lasagna in a large baking dish.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "spoon",
+        "phonetic": "/spuːn/",
+        "example": "He used a measuring spoon to add spices to the recipe.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "fork",
+        "phonetic": "/fɔːrk/",
+        "example": "I gently tapped the glass with a fork to make a sound.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "knife",
+        "phonetic": "/naɪf/",
+        "example": "He carefully peeled the apple with a sharp knife.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "plate",
+        "phonetic": "/pleɪt/",
+        "example": "He served the salad on a large ceramic plate.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "glass",
+        "phonetic": "/ɡlæs/",
+        "example": "Sarah enjoyed her milkshake in a thick glass with a straw.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "bottle",
+        "phonetic": "/ˈbɑːtəl/",
+        "example": "He used a spray bottle to mist the plants with water.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "cup",
+        "phonetic": "/kʌp/",
+        "example": "He admired the hand-painted design on the teacup.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "soap",
+        "phonetic": "/soʊp/",
+        "example": "He dropped the slippery soap in the shower.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "brush",
+        "phonetic": "/brʌʃ/",
+        "example": "I usually use a brush with natural bristles to distribute oils in my hair.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "toothbrush",
+        "phonetic": "/ˈtuːθˌbrʌʃ/",
+        "example": "He applied toothpaste to his toothbrush and started brushing his teeth in circular motions.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "pillow",
+        "phonetic": "/ˈpɪloʊ/",
+        "example": "I need to buy a new pillow for better neck support.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "trash can",
+        "phonetic": "/ˈtræʃ ˌkæn/",
+        "example": "He emptied the full trash can into the larger dumpster outside.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "box",
+        "phonetic": "/bɑːks/",
+        "example": "He placed the puzzle pieces back into the puzzle box.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "thing",
+        "phonetic": "/θɪŋ/",
+        "example": "I misplaced my phone; it's the one thing I can't find right now.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "ball",
+        "phonetic": "/bɔːl/",
+        "example": "I hit the ball with a golf club, sending it flying towards the hole.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "doll",
+        "phonetic": "/dɑːl/",
+        "example": "My baby hugged his soft, plush doll tightly while sleeping.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "dish",
+      "spoon",
+      "fork",
+      "knife",
+      "plate",
+      "glass",
+      "bottle",
+      "cup",
+      "soap",
+      "brush",
+      "toothbrush",
+      "pillow",
+      "trash can",
+      "box",
+      "thing",
+      "ball",
+      "doll"
+    ]
+  },
+  {
+    "topic_title": "Food and Ingredients",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/21/learn",
+    "topic_file": "19_food_and_ingredients.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "food",
+        "phonetic": "/fuːd/",
+        "example": "He enjoyed trying new foods while traveling abroad.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "meat",
+        "phonetic": "/miːt/",
+        "example": "Grilled chicken breast is a lean and flavorful meat option for a healthy dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "fish",
+        "phonetic": "/fɪʃ/",
+        "example": "He used white fish to make fish and vegetable stir-fry for a healthy dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "chicken",
+        "phonetic": "/ˈtʃɪkən/",
+        "example": "He grilled a juicy chicken breast for his dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "vegetable",
+        "phonetic": "/ˈvɛdʒtəbl/",
+        "example": "Fresh vegetables like tomatoes, cucumbers, and lettuce make a delicious salad.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cucumber",
+        "phonetic": "/ˈkjuːˌkʌmbɚ/",
+        "example": "He discovered the soothing properties of cucumber slices on his tired eyes after a long day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "potato",
+        "phonetic": "/pəˈteɪtoʊ/",
+        "example": "He used leftover mashed potatoes to make cheesy potato croquettes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "onion",
+        "phonetic": "/ˈʌnjən/",
+        "example": "I added chopped green onions to my Asian-inspired noodle dish.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "tomato",
+        "phonetic": "/təˈmeɪtoʊ/",
+        "example": "He made a tomato and avocado salad with a zesty lemon dressing.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "carrot",
+        "phonetic": "/ˈkærət/",
+        "example": "He pretended the carrot was a microphone and sang a silly song in front of the mirror.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "pepper",
+        "phonetic": "/ˈpɛpɚ/",
+        "example": "As a chef, I always make sure to have freshly ground pepper on hand to elevate the flavors of my dishes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "fruit",
+        "phonetic": "/fruːt/",
+        "example": "For a refreshing summer treat, try blending frozen fruit, like bananas and berries, into a creamy smoothie.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "apple",
+        "phonetic": "/ˈæpəl/",
+        "example": "Can you please pass me that shiny red apple?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "orange",
+        "phonetic": "/ˈɔːrɪndʒ/",
+        "example": "Orange slices make a healthy and tasty snack.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "grape",
+        "phonetic": "/ɡreɪp/",
+        "example": "A teaspoon of grape vinegar brightened up the tomato soup, giving it a pleasant tang.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "banana",
+        "phonetic": "/bəˈnænə/",
+        "example": "Bananas are my go-to ingredient for making a creamy and delicious smoothie in the morning.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "peach",
+        "phonetic": "/piːtʃ/",
+        "example": "He shared a juicy peach with his friend during a picnic in the park.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "lemon",
+        "phonetic": "/ˈlɛmən/",
+        "example": "A few drops of lemon juice in a glass of water make for a simple and refreshing detoxifying drink.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "milk",
+        "phonetic": "/mɪlk/",
+        "example": "Consuming milk can help maintain healthy skin due to the presence of vitamin A.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "cheese",
+        "phonetic": "/tʃiːz/",
+        "example": "Blue cheese crumbles are a tasty addition to burgers or salads.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "butter",
+        "phonetic": "/ˈbʌtɚ/",
+        "example": "Butter is a key ingredient in making flaky and delicious pie crusts.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "egg",
+        "phonetic": "/ɛɡ/",
+        "example": "Can you help me crack the eggs for the cake batter?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "cream",
+        "phonetic": "/kriːm/",
+        "example": "He stirred cream into his pasta sauce to make it rich and creamy.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "food",
+      "meat",
+      "fish",
+      "chicken",
+      "vegetable",
+      "cucumber",
+      "potato",
+      "onion",
+      "tomato",
+      "carrot",
+      "pepper",
+      "fruit",
+      "apple",
+      "orange",
+      "grape",
+      "banana",
+      "peach",
+      "lemon",
+      "milk",
+      "cheese",
+      "butter",
+      "egg",
+      "cream"
+    ]
+  },
+  {
+    "topic_title": "Food and Drinks",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/22/learn",
+    "topic_file": "20_food_and_drinks.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "meal",
+        "phonetic": "/miːl/",
+        "example": "I cooked a delicious meal of grilled chicken with roasted vegetables.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "breakfast",
+        "phonetic": "/ˈbrekfəst/",
+        "example": "Breakfast plays an important role as it provides the body with the necessary energy and nutrients to start the day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "lunch",
+        "phonetic": "/lʌntʃ/",
+        "example": "I made a Greek salad with feta cheese and olives for a healthy and flavorful lunch.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "dinner",
+        "phonetic": "/ˈdɪnɚ/",
+        "example": "For dinner, I cooked a delicious chicken stir-fry with vegetables.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "tea",
+        "phonetic": "/tiː/",
+        "example": "He added a splash of milk to his black tea for a creamy and smooth taste.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "coffee",
+        "phonetic": "/ˈkɑːfi/, /ˈkɔːfi/",
+        "example": "He savored the aroma of freshly brewed coffee before taking his first sip.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "cake",
+        "phonetic": "/keɪk/",
+        "example": "He baked a gluten-free almond cake for his friend with dietary restrictions.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "cookie",
+        "phonetic": "/ˈkʊki/",
+        "example": "He enjoyed a soft and buttery shortbread cookie with a cup of tea.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "bread",
+        "phonetic": "/brɛd/",
+        "example": "I toasted a slice of bread and spread peanut butter on it for breakfast.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "honey",
+        "phonetic": "/ˈhʌni/",
+        "example": "He enjoys a spoonful of honey before bed to help calm his cough and promote a good night's sleep.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "jam",
+        "phonetic": "/dʒæm/",
+        "example": "Can you pass me the jar of raspberry jam, please?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "juice",
+        "phonetic": "/dʒuːs/",
+        "example": "Can you pour me a cup of grape juice, please?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "ice cream",
+        "phonetic": "/ˈaɪs ˌkriːm/",
+        "example": "I accidentally dropped my ice cream cone on the ground, and it melted.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "water",
+        "phonetic": "/ˈwɑːtɚ/",
+        "example": "I accidentally spilled water on my laptop, and now it won't turn on.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "rice",
+        "phonetic": "/raɪs/",
+        "example": "I prefer brown rice over white rice for its nutritional benefits.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "chocolate milk",
+        "phonetic": "/ˈʧɔːklət ˈmɪlk/",
+        "example": "Chocolate milk is my son's favorite drink to enjoy after school.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "soup",
+        "phonetic": "/suːp/",
+        "example": "I always garnish my soup with a sprinkle of fresh herbs.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "salad",
+        "phonetic": "/ˈsæləd/",
+        "example": "I like to have a refreshing green salad with my lunch.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "example": "I added mushrooms, onions, and bell peppers as toppings on my pizza.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "sandwich",
+        "phonetic": "/ˈsændwɪʧ/",
+        "example": "I like to add pickles and mustard to my ham sandwich.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "sugar",
+        "phonetic": "/ˈʃʊɡɚ/",
+        "example": "A drizzle of sugar syrup over pancakes or waffles adds a delightful sweetness to breakfast.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "salt",
+        "phonetic": "/sɔːlt/",
+        "example": "Can you please pass the salt?",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "meal",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "tea",
+      "coffee",
+      "cake",
+      "cookie",
+      "bread",
+      "honey",
+      "jam",
+      "juice",
+      "ice cream",
+      "water",
+      "rice",
+      "chocolate milk",
+      "soup",
+      "salad",
+      "pizza",
+      "sandwich",
+      "sugar",
+      "salt"
+    ]
+  },
+  {
+    "topic_title": "The Weather and Nature",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/23/learn",
+    "topic_file": "21_the_weather_and_nature.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "weather",
+        "phonetic": "/ˈwɛðɚ/",
+        "example": "I check the weather forecast every morning to plan my outfit.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "fire",
+        "phonetic": "/ˈfaɪɚ/",
+        "example": "Can you please add some logs to the fire to keep it burning?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "hot",
+        "phonetic": "/hɑːt/",
+        "example": "I turned on the air conditioner because it was getting too hot inside.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "cold",
+        "phonetic": "/koʊld/",
+        "example": "I prefer to drink cold water on a hot day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "sunny",
+        "phonetic": "/ˈsʌni/",
+        "example": "It's a beautiful sunny day, perfect for a picnic in the park.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "cloud",
+        "phonetic": "/klaʊd/",
+        "example": "My little son was looking up at the sky and showing me the fluffy white clouds.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "cloudy",
+        "phonetic": "/ˈklaʊdi/",
+        "example": "I carried an umbrella with me because the weather looked cloudy.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "rain",
+        "phonetic": "/reɪn/",
+        "example": "Can you hear the sound of rain tapping on the window?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "rainy",
+        "phonetic": "/ˈreɪni/",
+        "example": "I like to listen to the sound of raindrops falling on the roof during a rainy day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "snowy",
+        "phonetic": "/ˈsnoʊi/",
+        "example": "We had a snowy weekend in the mountains, surrounded by beautiful white landscapes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "ice",
+        "phonetic": "/aɪs/",
+        "example": "I put ice cubes in my drink to make it cold.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "nature",
+        "phonetic": "/ˈneɪtʃɚ/",
+        "example": "Can you hear the sound of nature?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "sun",
+        "phonetic": "/sʌn/",
+        "example": "The sun shines brightly, lighting up the entire sky.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "moon",
+        "phonetic": "/muːn/",
+        "example": "Can you see the moon peeking out from behind the clouds?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Earth",
+        "phonetic": "/ɝːθ/",
+        "example": "The Earth has diverse ecosystems, ranging from forests to deserts.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "sky",
+        "phonetic": "/skaɪ/",
+        "example": "The dark clouds covered the sky, signaling an approaching storm.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "river",
+        "phonetic": "/ˈrɪvɚ/",
+        "example": "I dipped my feet in the cool water of the river.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "sea",
+        "phonetic": "/siː/",
+        "example": "I hear the sound of seagulls near the sea.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "mountain",
+        "phonetic": "/ˈmaʊntn/",
+        "example": "I took a photo of the mountain peak, capturing its majestic beauty.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "beach",
+        "phonetic": "/biːtʃ/",
+        "example": "I buried my feet in the warm sand at the beach.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "forest",
+        "phonetic": "/ˈfɔːrɪst/",
+        "example": "I love the fresh scent of pine trees in the forest.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "island",
+        "phonetic": "/ˈaɪlənd/",
+        "example": "I collected seashells as souvenirs from the beautiful island.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "star",
+        "phonetic": "/stɑr/",
+        "example": "I looked up at the night sky and saw a shooting star.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "tree",
+        "phonetic": "/triː/",
+        "example": "I enjoyed the sweet scent of blossoms on the flowering tree.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "flower",
+        "phonetic": "/ˈflaʊɚ/",
+        "example": "I decided to buy myself a bouquet of flowers to brighten up my home.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "weather",
+      "fire",
+      "hot",
+      "cold",
+      "sunny",
+      "cloud",
+      "cloudy",
+      "rain",
+      "rainy",
+      "snowy",
+      "ice",
+      "nature",
+      "sun",
+      "moon",
+      "Earth",
+      "sky",
+      "river",
+      "sea",
+      "mountain",
+      "beach",
+      "forest",
+      "island",
+      "star",
+      "tree",
+      "flower"
+    ]
+  },
+  {
+    "topic_title": "Useful Verbs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/17/learn",
+    "topic_file": "22_useful_verbs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "to hear",
+        "phonetic": "/hɪr/",
+        "example": "I heard footsteps behind me and quickly turned around.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "to listen",
+        "phonetic": "/ˈlɪsən/",
+        "example": "Listen closely, and you can hear the birds singing in the trees.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "to see",
+        "phonetic": "/siː/",
+        "example": "Did you see that shooting star just now?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "to look",
+        "phonetic": "/lʊk/",
+        "example": "He looked at his watch to check the time.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "to watch",
+        "phonetic": "/wɑːtʃ/",
+        "example": "He sat on the park bench and watched the sunset.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "to touch",
+        "phonetic": "/tʌtʃ/",
+        "example": "Please don't touch the fragile glass display.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "to feel",
+        "phonetic": "/fiːl/",
+        "example": "After watching the emotional movie, he felt sad for hours.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "to talk",
+        "phonetic": "/tɑːk/",
+        "example": "He talked to his friend about his recent breakup.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "to call",
+        "phonetic": "/kɔːl/",
+        "example": "Can you call me back in ten minutes?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "to like",
+        "phonetic": "/laɪk/",
+        "example": "He doesn't like the feeling of being rushed.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "to love",
+        "phonetic": "/lʌv/",
+        "example": "He loves his dog, Max, and takes him for long walks every day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "to hate",
+        "phonetic": "/heɪt/",
+        "example": "Can you please stop making that noise? I hate it.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "to know",
+        "phonetic": "/noʊ/",
+        "example": "Do you know where the nearest gas station is?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to learn",
+        "phonetic": "/lɝːn/",
+        "example": "He learned valuable negotiation skills by watching experienced negotiators in action",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "to ask",
+        "phonetic": "/æsk/",
+        "example": "Can you ask him if he'll be at the meeting tomorrow?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "to study",
+        "phonetic": "/ˈstʌdi/",
+        "example": "She spends hours every day to study for her upcoming exams.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "to teach",
+        "phonetic": "/tiːtʃ/",
+        "example": "She teaches yoga to promote health and well-being.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "to need",
+        "phonetic": "/niːd/",
+        "example": "Do you need any help with your project?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "to want",
+        "phonetic": "/wɑːnt/",
+        "example": "He wants to go to the beach.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "to share",
+        "phonetic": "/ʃɛr/",
+        "example": "The couple plans to share a bank account after marriage.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "to put",
+        "phonetic": "/pʊt/",
+        "example": "Did she put the flowers in the vase?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "to prepare",
+        "phonetic": "/prɪˈpɛr/",
+        "example": "He prepares his outfit the night before to save time in the morning.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "to plan",
+        "phonetic": "/plæn/",
+        "example": "They planned the trip months in advance to ensure everything was in place.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "to explain",
+        "phonetic": "/ɪkˈspleɪn/",
+        "example": "He explained the plot of the movie to his friend who hadn't seen it.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "to fill",
+        "phonetic": "/fɪl/",
+        "example": "He filled the bucket with sand to build a sandcastle.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "26",
+        "word": "to fly",
+        "phonetic": "/flaɪ/",
+        "example": "Birds can fly freely in the sky.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "27",
+        "word": "to get",
+        "phonetic": "/ɡɛt/",
+        "example": "She got ready for the interview by researching the company.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "28",
+        "word": "to become",
+        "phonetic": "/bɪˈkʌm/",
+        "example": "He's training to become a pilot at a flight school.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "to hear",
+      "to listen",
+      "to see",
+      "to look",
+      "to watch",
+      "to touch",
+      "to feel",
+      "to talk",
+      "to call",
+      "to like",
+      "to love",
+      "to hate",
+      "to know",
+      "to learn",
+      "to ask",
+      "to study",
+      "to teach",
+      "to need",
+      "to want",
+      "to share",
+      "to put",
+      "to prepare",
+      "to plan",
+      "to explain",
+      "to fill",
+      "to fly",
+      "to get",
+      "to become"
+    ]
+  },
+  {
+    "topic_title": "School",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/26/learn",
+    "topic_file": "23_school.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "school",
+        "phonetic": "/skuːl/",
+        "example": "He forgot his homework and had to rush back to school to get it.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "college",
+        "phonetic": "/ˈkɑːlɪdʒ/",
+        "example": "I am excited to start college and pursue my degree.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "university",
+        "phonetic": "/ˌjuːnɪˈvɝːsɪti/",
+        "example": "I will graduate from university next year with a degree in psychology.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "preschool",
+        "phonetic": "/ˈpriːˌskuːl/",
+        "example": "He made new friends at preschool and enjoys sharing toys with them.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "classroom",
+        "phonetic": "/ˈklæsˌruːm/",
+        "example": "I keep my school supplies organized in my backpack for the classroom.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "student",
+        "phonetic": "/ˈstuːdnt/",
+        "example": "Can you introduce yourself to the new student in class?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "example": "I always carry a book in my bag so I can read during my commute or whenever I have free time.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "notebook",
+        "phonetic": "/ˈnoʊtˌbʊk/",
+        "example": "He writes down his ideas and thoughts in his notebook.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "bag",
+        "phonetic": "/bæɡ/",
+        "example": "Can you hold my bag while I tie my shoelaces?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "pen",
+        "phonetic": "/pen/",
+        "example": "Can you lend me your red pen to fill out this form?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "pencil",
+        "phonetic": "/ˈpɛnsl/",
+        "example": "He uses a pencil to shade and create different tones in his artwork.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "eraser",
+        "phonetic": "/ɪˈreɪsɚ/",
+        "example": "He gently rubs the eraser over the words to erase them completely.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "marker",
+        "phonetic": "/ˈmɑːrkɚ/",
+        "example": "He uses a whiteboard marker to write on the board during presentations.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "homework",
+        "phonetic": "/ˈhoʊmˌwɝːk/",
+        "example": "I always double-check my homework to ensure it is accurate.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "history",
+        "phonetic": "/ˈhɪstɚi/ , /ˈhɪstri/",
+        "example": "Can you recommend any online resources for studying world history?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "language",
+        "phonetic": "/ˈlæŋɡwɪdʒ/",
+        "example": "He wants to become bilingual and speak multiple languages fluently.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "science",
+        "phonetic": "/ˈsaɪəns/",
+        "example": "I enjoy conducting experiments and making observations in science class.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "class",
+        "phonetic": "/klæs/",
+        "example": "The teacher greeted the class as they entered the classroom, ready to begin the day's lesson.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "school",
+      "college",
+      "university",
+      "preschool",
+      "classroom",
+      "student",
+      "book",
+      "notebook",
+      "bag",
+      "pen",
+      "pencil",
+      "eraser",
+      "marker",
+      "homework",
+      "history",
+      "language",
+      "science",
+      "class"
+    ]
+  },
+  {
+    "topic_title": "City",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/27/learn",
+    "topic_file": "24_city.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "city",
+        "phonetic": "/ˈsɪti/",
+        "example": "She enjoys exploring the city's parks and landmarks on weekends.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "town",
+        "phonetic": "/taʊn/",
+        "example": "I live in a small town surrounded by beautiful countryside.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "street",
+        "phonetic": "/striːt/",
+        "example": "He parked his car on the street and walked to the nearby café.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "bank",
+        "phonetic": "/bænk/",
+        "example": "Can you recommend a reliable bank for opening a new account?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "hospital",
+        "phonetic": "/ˈhɑːspɪtl/",
+        "example": "I visited my friend at the hospital and brought her some flowers.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "restaurant",
+        "phonetic": "/ˈrɛstərɑːnt/",
+        "example": "He works as a chef in a popular restaurant.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "movie theater",
+        "phonetic": "/ˈmuːvi ˈθiːətɚ/",
+        "example": "He likes the comfortable seats and big screen at the movie theater.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "supermarket",
+        "phonetic": "/ˈsuːpɚˌmɑːrkɪt/",
+        "example": "He works as a cashier at the supermarket, scanning and bagging customers' items.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "post office",
+        "phonetic": "/ˈpoʊst ˈɒfɪs/",
+        "example": "I like to check my mailbox at the post office every day for any new mail.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "bench",
+        "phonetic": "/bɛnʧ/",
+        "example": "I like to sit on the bench and watch people walking by.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "museum",
+        "phonetic": "/mjuˈziːəm/",
+        "example": "He marveled at the dinosaur skeletons in the natural history museum.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "park",
+        "phonetic": "/pɑrk/",
+        "example": "He flew a kite in the park on a sunny day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "hotel",
+        "phonetic": "/hoʊˈtɛl/",
+        "example": "Can you recommend a budget-friendly hotel in the city center?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "police",
+        "phonetic": "/pəˈliːs/",
+        "example": "She felt safer knowing that the police were patrolling the neighborhood.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "map",
+        "phonetic": "/mæp/",
+        "example": "He studied the map to plan the best route for his road trip.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "city",
+      "town",
+      "street",
+      "bank",
+      "hospital",
+      "restaurant",
+      "movie theater",
+      "supermarket",
+      "post office",
+      "bench",
+      "museum",
+      "park",
+      "hotel",
+      "police",
+      "map"
+    ]
+  },
+  {
+    "topic_title": "Free Time Activities",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/28/learn",
+    "topic_file": "25_free_time_activities.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "hobby",
+        "phonetic": "/ˈhɑːbi/",
+        "example": "Can you guess what his favorite hobby is?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "movie",
+        "phonetic": "/ˈmuːvi/",
+        "example": "He watched a scary movie and got scared during the suspenseful scenes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "music",
+        "phonetic": "/ˈmjuːzɪk/",
+        "example": "He plays the piano and enjoys composing beautiful music.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "guitar",
+        "phonetic": "/ɡɪˈtɑːr/",
+        "example": "He is practicing fingerpicking techniques on the guitar.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "piano",
+        "phonetic": "/piˈænoʊ/",
+        "example": "I learned how to read sheet music to play the piano.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "violin",
+        "phonetic": "/ˌvaɪəˈlɪn/",
+        "example": "Can you show me the proper way to hold the violin bow?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "swimming",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "example": "He learned how to do the front crawl stroke in swimming lessons.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "soccer",
+        "phonetic": "/ˈsɑːkɚ/",
+        "example": "I like to watch soccer matches on TV and support my favorite team.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "volleyball",
+        "phonetic": "/ˈvɑːliˌbɔːl/",
+        "example": "She enjoys the teamwork and strategy involved in playing volleyball.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "hiking",
+        "phonetic": "/ˈhaɪkɪŋ/",
+        "example": "Hiking is a great way to explore nature and enjoy the fresh air.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "tennis",
+        "phonetic": "/ˈtɛnɪs/",
+        "example": "He dreams of becoming a professional tennis player one day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "bicycle",
+        "phonetic": "/ˈbaɪsɪkl/",
+        "example": "He enjoys going on long bicycle rides in the countryside.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "sport",
+        "phonetic": "/spɔːrt/",
+        "example": "Basketball is a dynamic sport that demands quick thinking and agility.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "game",
+        "phonetic": "/ɡeɪm/",
+        "example": "Chess is a strategic board game played between two players on a checkered board.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "video game",
+        "phonetic": "/ˈvɪdioʊ ˌɡeɪm/",
+        "example": "I enjoy playing video games with my friends online.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "newspaper",
+        "phonetic": "/ˈnuːzˌpeɪpɚ/",
+        "example": "I enjoy doing the crossword puzzle in the newspaper to challenge my brain.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "magazine",
+        "phonetic": "/ˈmæɡəziːn/",
+        "example": "I often read parenting magazines to get advice on raising my children.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "hobby",
+      "movie",
+      "music",
+      "guitar",
+      "piano",
+      "violin",
+      "swimming",
+      "soccer",
+      "volleyball",
+      "hiking",
+      "tennis",
+      "bicycle",
+      "sport",
+      "game",
+      "video game",
+      "newspaper",
+      "magazine"
+    ]
+  },
+  {
+    "topic_title": "Countries and Nationalities",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/498/learn",
+    "topic_file": "26_countries_and_nationalities.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "country",
+        "phonetic": "/ˈkʌntri/",
+        "example": "Canada is a vast country known for its stunning landscapes and friendly people.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "the United States",
+        "phonetic": "/juːˈnaɪtɪd ˈsteɪts/",
+        "example": "English is the primary language spoken in the United States.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "American",
+        "phonetic": "/əˈmɛrɪkən/",
+        "example": "American football is a popular sport in the United States.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "Canada",
+        "phonetic": "/ˈkænədə/",
+        "example": "Canada celebrates its national day, Canada Day, on July 1st.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "Canadian",
+        "phonetic": "/kəˈneɪdiən/",
+        "example": "Canadian national parks, such as Banff and Jasper, attract tourists from around the world.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "United Kingdom",
+        "phonetic": "/juːˈnaɪtɪd ˈkɪŋdəm/",
+        "example": "Buckingham Palace in London is the official residence of the Queen of the United Kingdom.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "British",
+        "phonetic": "/ˈbrɪtɪʃ/",
+        "example": "Shakespeare is one of the most famous British playwrights in history.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "Germany",
+        "phonetic": "/ˈdʒɝːməni/",
+        "example": "Oktoberfest is a famous festival celebrated in Germany.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "German",
+        "phonetic": "/ˈdʒɝːmən/",
+        "example": "German castles, such as Neuschwanstein and Heidelberg Castle, attract many tourists.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "France",
+        "phonetic": "/fræns/",
+        "example": "France is known for its rich history and cultural heritage.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "French",
+        "phonetic": "/frɛntʃ/",
+        "example": "French cuisine is known for its delicious cheeses and wines.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "Spain",
+        "phonetic": "/speɪn/",
+        "example": "Barcelona, located in Spain, is famous for its unique architecture.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "Spanish",
+        "phonetic": "/ˈspænɪʃ/",
+        "example": "Flamenco is a traditional Spanish dance that is known for its expressive movements.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "Italy",
+        "phonetic": "/ˈɪtəli/",
+        "example": "I traveled to Italy last year to explore its rich history and beautiful cities.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Italian",
+        "phonetic": "/ɪˈtæljən/",
+        "example": "Maria's family immigrated from Italy, so they celebrate their Italian heritage by hosting traditional Italian feasts during holidays.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "country",
+      "the United States",
+      "American",
+      "Canada",
+      "Canadian",
+      "United Kingdom",
+      "British",
+      "Germany",
+      "German",
+      "France",
+      "French",
+      "Spain",
+      "Spanish",
+      "Italy",
+      "Italian"
+    ]
+  },
+  {
+    "topic_title": "Simple Verbs",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/18/learn",
+    "topic_file": "27_simple_verbs.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "to walk",
+        "phonetic": "/wɑːk/",
+        "example": "After the accident, doctors were unsure if he'd ever walk again.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "to run",
+        "phonetic": "/rʌn/",
+        "example": "When he heard the news, he ran home in a hurry.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "to go",
+        "phonetic": "/ɡoʊ/",
+        "example": "He went into the kitchen to prepare dinner for the family.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "to come",
+        "phonetic": "/kʌm/",
+        "example": "Can you come with me to the store?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "to sit",
+        "phonetic": "/sɪt/",
+        "example": "After a long hike, we found a nice spot to sit and have a picnic.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "to fall",
+        "phonetic": "/fɑl/",
+        "example": "Be careful not to slip and fall on the wet floor.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "to jump",
+        "phonetic": "/dʒʌmp/",
+        "example": "He jumped over the puddle to avoid getting his shoes wet.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "to bring",
+        "phonetic": "/brɪŋ/",
+        "example": "Can we bring our pets to the park?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "to give",
+        "phonetic": "/ɡɪv/",
+        "example": "The librarian gave me a book to borrow for my research.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "to find",
+        "phonetic": "/faɪnd/",
+        "example": "Did you find the remote control for the television?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "to open",
+        "phonetic": "/ˈoʊpən/",
+        "example": "He opens the window to let in some fresh air.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "to close",
+        "phonetic": "/kloʊz/",
+        "example": "After entering the room, I asked him to close the door behind him.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "to start",
+        "phonetic": "/stɑːrt/",
+        "example": "He started singing along to the song on the radio.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to stop",
+        "phonetic": "/stɑp/",
+        "example": "She stopped the escalator to retrieve her dropped phone.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "to finish",
+        "phonetic": "/ˈfɪnɪʃ/",
+        "example": "He finished painting the walls and admired his work.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "to build",
+        "phonetic": "/bɪld/",
+        "example": "The construction crew is building a new office complex downtown.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "to do",
+        "phonetic": "/duː/",
+        "example": "What are you doing tomorrow?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "to get",
+        "phonetic": "/ɡɛt/",
+        "example": "He got an unexpected bonus at work.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "to turn",
+        "phonetic": "/tɝn/",
+        "example": "He turned to face the door as someone entered.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "to introduce",
+        "phonetic": "/ˌɪntrəˈduːs/",
+        "example": "Allow me to introduce my colleague, Mr. Johnson.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "to travel",
+        "phonetic": "/ˈtrævəl/",
+        "example": "He travels for work and often visits different cities for business meetings.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "to let",
+        "phonetic": "/lɛt/",
+        "example": "Don't let the rainy weather ruin your mood.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "23",
+        "word": "to choose",
+        "phonetic": "/tʃuːz/",
+        "example": "When you go shopping, remember to choose quality over quantity.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "24",
+        "word": "to help",
+        "phonetic": "/hɛlp/",
+        "example": "She helped him carry the boxes upstairs.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "25",
+        "word": "to swim",
+        "phonetic": "/swɪm/",
+        "example": "My sister swims every morning before breakfast.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "to walk",
+      "to run",
+      "to go",
+      "to come",
+      "to sit",
+      "to fall",
+      "to jump",
+      "to bring",
+      "to give",
+      "to find",
+      "to open",
+      "to close",
+      "to start",
+      "to stop",
+      "to finish",
+      "to build",
+      "to do",
+      "to get",
+      "to turn",
+      "to introduce",
+      "to travel",
+      "to let",
+      "to choose",
+      "to help",
+      "to swim"
+    ]
+  },
+  {
+    "topic_title": "Transportation",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/501/learn",
+    "topic_file": "28_transportation.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "car",
+        "phonetic": "/kɑːr/",
+        "example": "I drive my car to work every day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "motorcycle",
+        "phonetic": "/ˈmoʊtɚˌsaɪkl/",
+        "example": "He rides his motorcycle to work every day.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "bus",
+        "phonetic": "/bʌs/",
+        "example": "I prefer sitting near the window when I'm on the bus.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "truck",
+        "phonetic": "/trʌk/",
+        "example": "The truck carried a load of construction materials to the building site.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "train",
+        "phonetic": "/treɪn/",
+        "example": "I always enjoy listening to music while traveling on the train.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "taxi",
+        "phonetic": "/ˈtæksi/",
+        "example": "I called a taxi to pick me up from my hotel.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "subway",
+        "phonetic": "/ˈsʌbˌweɪ/",
+        "example": "I like reading a book during my subway ride.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "airplane",
+        "phonetic": "/ˈɛrˌpleɪn/",
+        "example": "I always feel excited when the airplane takes off.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "helicopter",
+        "phonetic": "/ˈhɛlɪˌkɑːptɚ/",
+        "example": "The helicopter blades spun rapidly as it prepared for takeoff.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "ship",
+        "phonetic": "/ʃɪp/",
+        "example": "The captain navigated the ship through rough waters with skill and expertise.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "boat",
+        "phonetic": "/boʊt/",
+        "example": "The boat captain guided us through the narrow canals of the city.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "ticket",
+        "phonetic": "/ˈtɪkɪt/",
+        "example": "He lost his ticket and had to get a new one at the ticket counter.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "van",
+        "phonetic": "/væn/",
+        "example": "The family loaded their camping gear into the van and set off on their weekend adventure.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "station",
+        "phonetic": "/ˈsteɪʃən/",
+        "example": "I arrived early at the station to make sure I didn't miss my train.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "airport",
+        "phonetic": "/ˈɛrˌpɔːrt/",
+        "example": "I always feel a mix of emotions when saying goodbye to loved ones at the airport.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "train station",
+        "phonetic": "/ˈtreɪn ˈsteɪʃən/",
+        "example": "I arrived at the train station early to ensure I didn't miss my train.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "car",
+      "motorcycle",
+      "bus",
+      "truck",
+      "train",
+      "taxi",
+      "subway",
+      "airplane",
+      "helicopter",
+      "ship",
+      "boat",
+      "ticket",
+      "van",
+      "station",
+      "airport",
+      "train station"
+    ]
+  },
+  {
+    "topic_title": "Directions and Continents",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/502/learn",
+    "topic_file": "29_directions_and_continents.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "place",
+        "phonetic": "/pleɪs/",
+        "example": "I want to find a new place to eat dinner tonight.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "north",
+        "phonetic": "/nɔːrθ/",
+        "example": "Canada is located to the north of the United States.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "south",
+        "phonetic": "/saʊθ/",
+        "example": "The sun rises in the east and sets in the south during the summer.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "east",
+        "phonetic": "/iːst/",
+        "example": "The wind is blowing from the east today.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "west",
+        "phonetic": "/wɛst/",
+        "example": "The west is home to vast deserts, rolling plains, and majestic mountain ranges.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "back",
+        "phonetic": "/bæk/",
+        "example": "He stepped back to give his friend more room to dance.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "right",
+        "phonetic": "/raɪt/",
+        "example": "Turn right at the intersection to reach the museum.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "left",
+        "phonetic": "/ˈɫɛft/",
+        "example": "Placing his hand over his heart, he proudly wore the badge on the left side of his chest.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "far",
+        "phonetic": "/fɑr/",
+        "example": "She could hear the music from far down the street.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "continent",
+        "phonetic": "/ˈkɑːntɪnənt/",
+        "example": "Africa is the second-largest continent in the world.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "Asia",
+        "phonetic": "/ˈeɪʒə/",
+        "example": "Asia is home to various religions, including Buddhism, Hinduism, and Islam.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "Asian",
+        "phonetic": "/ˈeɪʒən/",
+        "example": "Asian countries like China, Japan, and South Korea are known for their advancements in technology.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "Europe",
+        "phonetic": "/ˈjʊrəp/",
+        "example": "Europe has a well-developed transportation system.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "European",
+        "phonetic": "/ˌjʊrəˈpiːən/",
+        "example": "European architecture is known for its stunning cathedrals and castles.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "Africa",
+        "phonetic": "/ˈæfrɪkə/",
+        "example": "Africa is known for its diverse wildlife, including elephants, lions, and giraffes.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "African",
+        "phonetic": "/ˈæfrɪkən/",
+        "example": "African clothing is known for its vibrant patterns and intricate designs.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "place",
+      "north",
+      "south",
+      "east",
+      "west",
+      "back",
+      "right",
+      "left",
+      "far",
+      "continent",
+      "Asia",
+      "Asian",
+      "Europe",
+      "European",
+      "Africa",
+      "African"
+    ]
+  },
+  {
+    "topic_title": "Adverbs and Pronouns",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/503/learn",
+    "topic_file": "30_adverbs_and_pronouns.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "outside",
+        "phonetic": "/ˌaʊtˈsaɪd/",
+        "example": "They enjoyed a picnic outside in the park.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "always",
+        "phonetic": "/ˈɔːlweɪz/ , /ˈɑːlweɪz/",
+        "example": "The train is always crowded during rush hour.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "never",
+        "phonetic": "/ˈnɛvɚ/",
+        "example": "She never eats meat; she's been vegetarian since birth.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "usually",
+        "phonetic": "/ˈjuːʒəli/ , /ˈjuːʒəwəli/",
+        "example": "She usually takes a walk in the park after dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "often",
+        "phonetic": "/ˈɔːfən/ , /ˈɑːfən/",
+        "example": "He often helps his neighbors with their chores.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "sometimes",
+        "phonetic": "/ˈsʌmˌtaɪmz/",
+        "example": "She sometimes practices yoga in the morning.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "now",
+        "phonetic": "/naʊ/",
+        "example": "I am cooking dinner now, but we can watch a movie after dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "soon",
+        "phonetic": "/suːn/",
+        "example": "The bus will arrive at the station soon.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "too",
+        "phonetic": "/tuː/",
+        "example": "She loves classical music, and her sister does too.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "here",
+        "phonetic": "/hɪr/",
+        "example": "Stand here to see the full mural.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "there",
+        "phonetic": "/ðɛr/",
+        "example": "Your keys are there on the counter.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "again",
+        "phonetic": "/əˈɡɛn/ , /əˈɡeɪn/",
+        "example": "He apologized for the mistake and promised it wouldn't happen again.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "of course",
+        "phonetic": "/ʌv ˈkɔːrs/",
+        "example": "Of course, I agree with your suggestion; it's a great idea.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "really",
+        "phonetic": "/ˈriːəli/ , /ˈrɪəli/",
+        "example": "I'm not joking; I really saw a shooting star last night.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "why",
+        "phonetic": "/waɪ/",
+        "example": "Why are you late for school today?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "where",
+        "phonetic": "/wɛr/",
+        "example": "Do you know where I can find a good restaurant?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "when",
+        "phonetic": "/wɛn/",
+        "example": "Can you let me know when the package arrives?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "what",
+        "phonetic": "/wʌt/",
+        "example": "What did you have for breakfast?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "who",
+        "phonetic": "/huː/",
+        "example": "Who are those people sitting at the back?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "how",
+        "phonetic": "/haʊ/",
+        "example": "How can I improve my English speaking skills?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "else",
+        "phonetic": "/ɛls/",
+        "example": "Do you want anything else from the store?",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "outside",
+      "always",
+      "never",
+      "usually",
+      "often",
+      "sometimes",
+      "now",
+      "soon",
+      "too",
+      "here",
+      "there",
+      "again",
+      "of course",
+      "really",
+      "why",
+      "where",
+      "when",
+      "what",
+      "who",
+      "how",
+      "else"
+    ]
+  },
+  {
+    "topic_title": "Prepositions and Determiners",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/743/learn",
+    "topic_file": "31_prepositions_and_determiners.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "before",
+        "phonetic": "/bɪˈfɔːr/",
+        "example": "The number 5 comes before 6 on the list.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "after",
+        "phonetic": "/ˈæftɚ/",
+        "example": "After dinner, we'll watch a movie.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "at",
+        "phonetic": "/æt/",
+        "example": "I saw him at the grocery store.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "in",
+        "phonetic": "/ɪn/",
+        "example": "They live in a big house.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "on",
+        "phonetic": "/ɑːn/ , /ɒn/",
+        "example": "If you are cold the blanket is on the bed.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "below",
+        "phonetic": "/bɪˈloʊ/",
+        "example": "The book fell below the shelf.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "above",
+        "phonetic": "/əˈbʌv/",
+        "example": "The kite soared high above the treetops.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "across",
+        "phonetic": "/əˈkrɑːs/",
+        "example": "My friend lives across the road from us.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "near",
+        "phonetic": "/nɪr/",
+        "example": "The children became happy when they found out that the playground is near the apartment building.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "between",
+        "phonetic": "/bɪˈtwiːn/",
+        "example": "The book is placed between the notebooks and the pen holder.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "next to",
+        "phonetic": "/nɛkst tuː/",
+        "example": "The basketball court is situated next to the fitness center, encouraging physical activities and sports.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "behind",
+        "phonetic": "/bɪˈhaɪnd/",
+        "example": "The magician pulled the rabbit out from behind the hat.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "with",
+        "phonetic": "/wɪð/ , /wɪθ/",
+        "example": "I went to the park with my friends.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "to",
+        "phonetic": "/tuː/",
+        "example": "He rode his bicycle to the store to buy some groceries.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "another",
+        "phonetic": "/əˈnʌðɚ/",
+        "example": "He needs another guitar pick for his performance.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "this",
+        "phonetic": "/ðɪs/",
+        "example": "Do you know the name of this song?",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "17",
+        "word": "that",
+        "phonetic": "/ðæt/",
+        "example": "I'll take this seat, and you can have that one.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "18",
+        "word": "both",
+        "phonetic": "/boʊθ/",
+        "example": "Both books on the shelf are interesting.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "19",
+        "word": "what",
+        "phonetic": "/wʌt/",
+        "example": "I don't know what time it is.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "20",
+        "word": "a",
+        "phonetic": "/ə/",
+        "example": "She bought a new book yesterday.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "21",
+        "word": "over",
+        "phonetic": "/ˈoʊvɚ/",
+        "example": "Smoke hung over the burning building.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "22",
+        "word": "under",
+        "phonetic": "/ˈʌndɚ/",
+        "example": "She found her keys under a pile of papers on her desk.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "before",
+      "after",
+      "at",
+      "in",
+      "on",
+      "below",
+      "above",
+      "across",
+      "near",
+      "between",
+      "next to",
+      "behind",
+      "with",
+      "to",
+      "another",
+      "this",
+      "that",
+      "both",
+      "what",
+      "a",
+      "over",
+      "under"
+    ]
+  },
+  {
+    "topic_title": "Describing People",
+    "topic_url": "https://langeek.co/en/vocab/subcategory/745/learn",
+    "topic_file": "32_describing_people.csv",
+    "articles": [],
+    "entries": [
+      {
+        "order": "1",
+        "word": "young",
+        "phonetic": "/jʌŋ/",
+        "example": "He has a young brother who is learning to walk.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "2",
+        "word": "old",
+        "phonetic": "/oʊld/",
+        "example": "She cherished the wisdom and experience that came with being old.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "3",
+        "word": "stupid",
+        "phonetic": "/ˈstuːpɪd/ , /ˈstjuːpɪd/",
+        "example": "Don't be stupid, the answer is right in front of you.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "4",
+        "word": "thirsty",
+        "phonetic": "/ˈθɝːsti/",
+        "example": "After eating spicy food, he became very thirsty and drank a glass of water.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "5",
+        "word": "fat",
+        "phonetic": "/fæt/",
+        "example": "He admires body diversity and believes everyone should be accepted regardless of being fat or thin.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "6",
+        "word": "thin",
+        "phonetic": "/θɪn/",
+        "example": "He is thin but strong, thanks to regular exercise and a balanced diet.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "7",
+        "word": "tall",
+        "phonetic": "/tɔːl/",
+        "example": "He is a tall basketball player, perfect for the sport.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "8",
+        "word": "short",
+        "phonetic": "/ʃɔrt/",
+        "example": "At just five feet tall, she was considered short compared to her classmates.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "9",
+        "word": "smart",
+        "phonetic": "/smɑːrt/",
+        "example": "My daughter is a smart student, and her teachers appreciate her enthusiasm for learning.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "10",
+        "word": "angry",
+        "phonetic": "/ˈæŋɡri/",
+        "example": "I get angry when people lie to me.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "11",
+        "word": "fine",
+        "phonetic": "/faɪn/",
+        "example": "Despite the small accident, the bike and its rider were both fine.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "12",
+        "word": "sad",
+        "phonetic": "/sæd/",
+        "example": "He looked sad because he didn't get the job he wanted.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "13",
+        "word": "happy",
+        "phonetic": "/ˈhæpi/",
+        "example": "He was happy when he got the job he had been hoping for.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "14",
+        "word": "hungry",
+        "phonetic": "/ˈhʌŋɡri/",
+        "example": "After playing outside all day, the children were hungry for dinner.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "15",
+        "word": "excited",
+        "phonetic": "/ɪkˈsaɪtɪd/",
+        "example": "He was excited to start his new job.",
+        "note": "",
+        "definition_en": ""
+      },
+      {
+        "order": "16",
+        "word": "ready",
+        "phonetic": "/ˈrɛdi/",
+        "example": "She had her backpack packed and was ready for the hiking trip.",
+        "note": "",
+        "definition_en": ""
+      }
+    ],
+    "vocabulary": [
+      "young",
+      "old",
+      "stupid",
+      "thirsty",
+      "fat",
+      "thin",
+      "tall",
+      "short",
+      "smart",
+      "angry",
+      "fine",
+      "sad",
+      "happy",
+      "hungry",
+      "excited",
+      "ready"
+    ]
+  }
+]

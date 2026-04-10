@@ -1,0 +1,162 @@
+[15:14:32] INFO: Thread crawler đã khởi động
+[15:14:32] INFO: Config headless=True, resume=True, phonetic=False, example=False, note_all=False, output=E:\code\Money\Seledium\output
+[15:14:32] Bắt đầu phiên cào dữ liệu...
+[15:14:32] Không thấy chromedriver local, Selenium Manager sẽ tự xử lý (có thể chậm nếu mạng yếu).
+[15:14:32] Đang khởi tạo ChromeDriver...
+[15:14:34] Khởi tạo ChromeDriver thành công.
+[15:14:39] Đã mở trang gốc: https://langeek.co/en/vocab/category/6/a2-level
+[15:14:39] Tìm thấy 50 chủ đề cần xử lý
+[15:14:39] [1/50] Đang xử lý: Home Appliances and Devices
+[15:14:39] RESUME: đã có 31 từ cho topic 'Home Appliances and Devices'
+[15:14:39] OK: Home Appliances and Devices -> 31 từ (resume-skip)
+[15:14:39] [2/50] Đang xử lý: Clothes and Accessories
+[15:14:39] RESUME: đã có 31 từ cho topic 'Clothes and Accessories'
+[15:14:39] OK: Clothes and Accessories -> 31 từ (resume-skip)
+[15:14:39] [3/50] Đang xử lý: Colors and Shapes
+[15:14:39] RESUME: đã có 29 từ cho topic 'Colors and Shapes'
+[15:14:39] OK: Colors and Shapes -> 29 từ (resume-skip)
+[15:14:39] [4/50] Đang xử lý: Computer and Information
+[15:14:39] RESUME: đã có 36 từ cho topic 'Computer and Information'
+[15:14:39] OK: Computer and Information -> 36 từ (resume-skip)
+[15:14:39] [5/50] Đang xử lý: School and Education
+[15:14:39] RESUME: đã có 37 từ cho topic 'School and Education'
+[15:14:39] OK: School and Education -> 37 từ (resume-skip)
+[15:14:39] [6/50] Đang xử lý: Animals
+[15:14:39] RESUME: đã có 35 từ cho topic 'Animals'
+[15:14:39] OK: Animals -> 35 từ (resume-skip)
+[15:14:39] [7/50] Đang xử lý: Appearance
+[15:14:39] RESUME: đã có 28 từ cho topic 'Appearance'
+[15:14:39] OK: Appearance -> 28 từ (resume-skip)
+[15:14:39] [8/50] Đang xử lý: The Human Body
+[15:14:39] RESUME: đã có 28 từ cho topic 'The Human Body'
+[15:14:39] OK: The Human Body -> 28 từ (resume-skip)
+[15:14:39] [9/50] Đang xử lý: Conjunctions and Prepositions
+[15:14:39] RESUME: đã có 38 từ cho topic 'Conjunctions and Prepositions'
+[15:14:39] OK: Conjunctions and Prepositions -> 38 từ (resume-skip)
+[15:14:39] [10/50] Đang xử lý: Communication
+[15:14:39] RESUME: đã có 44 từ cho topic 'Communication'
+[15:14:39] OK: Communication -> 44 từ (resume-skip)
+[15:14:39] [11/50] Đang xử lý: Cinema and Theater
+[15:14:39] RESUME: đã có 32 từ cho topic 'Cinema and Theater'
+[15:14:39] OK: Cinema and Theater -> 32 từ (resume-skip)
+[15:14:39] [12/50] Đang xử lý: Music and Literature
+[15:14:39] RESUME: đã có 32 từ cho topic 'Music and Literature'
+[15:14:39] OK: Music and Literature -> 32 từ (resume-skip)
+[15:14:39] [13/50] Đang xử lý: Family and Friends
+[15:14:39] RESUME: đã có 28 từ cho topic 'Family and Friends'
+[15:14:39] OK: Family and Friends -> 28 từ (resume-skip)
+[15:14:39] [14/50] Đang xử lý: Restaurants and Food
+[15:14:39] RESUME: đã có 32 từ cho topic 'Restaurants and Food'
+[15:14:39] OK: Restaurants and Food -> 32 từ (resume-skip)
+[15:14:39] [15/50] Đang xử lý: Health and Sickness
+[15:14:39] RESUME: đã có 32 từ cho topic 'Health and Sickness'
+[15:14:39] OK: Health and Sickness -> 32 từ (resume-skip)
+[15:14:39] [16/50] Đang xử lý: Hobbies and Daily Activities
+[15:14:39] RESUME: đã có 34 từ cho topic 'Hobbies and Daily Activities'
+[15:14:39] OK: Hobbies and Daily Activities -> 34 từ (resume-skip)
+[15:14:39] [17/50] Đang xử lý: Home
+[15:14:39] RESUME: đã có 23 từ cho topic 'Home'
+[15:14:39] OK: Home -> 23 từ (resume-skip)
+[15:14:39] [18/50] Đang xử lý: Time and Date
+[15:14:39] RESUME: đã có 33 từ cho topic 'Time and Date'
+[15:14:39] OK: Time and Date -> 33 từ (resume-skip)
+[15:14:39] [19/50] Đang xử lý: Necessary Opposite Adjectives
+[15:14:39] RESUME: đã có 32 từ cho topic 'Necessary Opposite Adjectives'
+[15:14:39] OK: Necessary Opposite Adjectives -> 32 từ (resume-skip)
+[15:14:39] [20/50] Đang xử lý: Nature and Natural Disasters
+[15:14:39] RESUME: đã có 35 từ cho topic 'Nature and Natural Disasters'
+[15:14:39] OK: Nature and Natural Disasters -> 35 từ (resume-skip)
+[15:14:39] [21/50] Đang xử lý: Money and Shopping
+[15:14:39] RESUME: đã có 35 từ cho topic 'Money and Shopping'
+[15:14:39] OK: Money and Shopping -> 35 từ (resume-skip)
+[15:14:39] [22/50] Đang xử lý: Jobs and Work
+[15:14:39] RESUME: đã có 34 từ cho topic 'Jobs and Work'
+[15:14:39] OK: Jobs and Work -> 34 từ (resume-skip)
+[15:14:39] [23/50] Đang xử lý: Sports
+[15:14:39] RESUME: đã có 33 từ cho topic 'Sports'
+[15:14:39] OK: Sports -> 33 từ (resume-skip)
+[15:14:39] [24/50] Đang xử lý: Tourism
+[15:14:39] RESUME: đã có 33 từ cho topic 'Tourism'
+[15:14:39] OK: Tourism -> 33 từ (resume-skip)
+[15:14:39] [25/50] Đang xử lý: The Weather
+[15:14:39] RESUME: đã có 31 từ cho topic 'The Weather'
+[15:14:39] OK: The Weather -> 31 từ (resume-skip)
+[15:14:39] [26/50] Đang xử lý: Quantity
+[15:14:39] RESUME: đã có 29 từ cho topic 'Quantity'
+[15:14:39] OK: Quantity -> 29 từ (resume-skip)
+[15:14:39] [27/50] Đang xử lý: Countries and Nationalities
+[15:14:39] RESUME: đã có 28 từ cho topic 'Countries and Nationalities'
+[15:14:39] OK: Countries and Nationalities -> 28 từ (resume-skip)
+[15:14:39] [28/50] Đang xử lý: Languages and Grammar
+[15:14:39] RESUME: đã có 28 từ cho topic 'Languages and Grammar'
+[15:14:39] OK: Languages and Grammar -> 28 từ (resume-skip)
+[15:14:39] [29/50] Đang xử lý: Basic Phrasal Verbs
+[15:14:39] RESUME: đã có 30 từ cho topic 'Basic Phrasal Verbs'
+[15:14:39] OK: Basic Phrasal Verbs -> 30 từ (resume-skip)
+[15:14:39] [30/50] Đang xử lý: Flowers, Fruits, and Nuts
+[15:14:39] RESUME: đã có 31 từ cho topic 'Flowers, Fruits, and Nuts'
+[15:14:39] OK: Flowers, Fruits, and Nuts -> 31 từ (resume-skip)
+[15:14:39] [31/50] Đang xử lý: Personality and Behavior
+[15:14:39] RESUME: đã có 40 từ cho topic 'Personality and Behavior'
+[15:14:39] OK: Personality and Behavior -> 40 từ (resume-skip)
+[15:14:39] [32/50] Đang xử lý: Food
+[15:14:39] RESUME: đã có 26 từ cho topic 'Food'
+[15:14:39] OK: Food -> 26 từ (resume-skip)
+[15:14:39] [33/50] Đang xử lý: Injuries and Sickness
+[15:14:39] RESUME: đã có 24 từ cho topic 'Injuries and Sickness'
+[15:14:39] OK: Injuries and Sickness -> 24 từ (resume-skip)
+[15:14:39] [34/50] Đang xử lý: Employment and Occupations
+[15:14:39] RESUME: đã có 31 từ cho topic 'Employment and Occupations'
+[15:14:39] OK: Employment and Occupations -> 31 từ (resume-skip)
+[15:14:39] [35/50] Đang xử lý: Exercise and Matches
+[15:14:39] RESUME: đã có 30 từ cho topic 'Exercise and Matches'
+[15:14:39] OK: Exercise and Matches -> 30 từ (resume-skip)
+[15:14:39] [36/50] Đang xử lý: Travelling
+[15:14:39] RESUME: đã có 34 từ cho topic 'Travelling'
+[15:14:39] OK: Travelling -> 34 từ (resume-skip)
+[15:14:39] [37/50] Đang xử lý: Furniture and Household Items
+[15:14:39] RESUME: đã có 20 từ cho topic 'Furniture and Household Items'
+[15:14:39] OK: Furniture and Household Items -> 20 từ (resume-skip)
+[15:14:39] [38/50] Đang xử lý: City and the Countryside
+[15:14:39] RESUME: đã có 36 từ cho topic 'City and the Countryside'
+[15:14:39] OK: City and the Countryside -> 36 từ (resume-skip)
+[15:14:39] [39/50] Đang xử lý: Measurement
+[15:14:39] RESUME: đã có 37 từ cho topic 'Measurement'
+[15:14:39] OK: Measurement -> 37 từ (resume-skip)
+[15:14:39] [40/50] Đang xử lý: The Mind
+[15:14:39] RESUME: đã có 37 từ cho topic 'The Mind'
+[15:14:39] OK: The Mind -> 37 từ (resume-skip)
+[15:14:39] [41/50] Đang xử lý: Essential Adverbs
+[15:14:39] RESUME: đã có 31 từ cho topic 'Essential Adverbs'
+[15:14:39] OK: Essential Adverbs -> 31 từ (resume-skip)
+[15:14:39] [42/50] Đang xử lý: Essential Opposite Adjectives
+[15:14:39] RESUME: đã có 29 từ cho topic 'Essential Opposite Adjectives'
+[15:14:39] OK: Essential Opposite Adjectives -> 29 từ (resume-skip)
+[15:14:39] [43/50] Đang xử lý: Emotions
+[15:14:39] RESUME: đã có 26 từ cho topic 'Emotions'
+[15:14:39] OK: Emotions -> 26 từ (resume-skip)
+[15:14:39] [44/50] Đang xử lý: Modal and Other Verbs
+[15:14:39] RESUME: đã có 37 từ cho topic 'Modal and Other Verbs'
+[15:14:39] OK: Modal and Other Verbs -> 37 từ (resume-skip)
+[15:14:39] [45/50] Đang xử lý: Mathematics
+[15:14:39] RESUME: đã có 28 từ cho topic 'Mathematics'
+[15:14:39] OK: Mathematics -> 28 từ (resume-skip)
+[15:14:39] [46/50] Đang xử lý: Science and the Natural World
+[15:14:41] INFO: expected_words=36
+[15:14:41] INFO: __NEXT_DATA__ cards=36
+[15:14:41] SAVE: 46_science_and_the_natural_world.csv (36 từ)
+[15:14:41] OK: Science and the Natural World -> 36 từ
+[15:14:41] [47/50] Đang xử lý: Necessary Verbs
+[15:14:41] RESUME: đã có 32 từ cho topic 'Necessary Verbs'
+[15:14:41] OK: Necessary Verbs -> 32 từ (resume-skip)
+[15:14:41] [48/50] Đang xử lý: Common Verbs
+[15:14:41] RESUME: đã có 32 từ cho topic 'Common Verbs'
+[15:14:41] OK: Common Verbs -> 32 từ (resume-skip)
+[15:14:41] [49/50] Đang xử lý: Essential Verbs
+[15:14:41] RESUME: đã có 30 từ cho topic 'Essential Verbs'
+[15:14:41] OK: Essential Verbs -> 30 từ (resume-skip)
+[15:14:41] [50/50] Đang xử lý: Pronouns and Determiners
+[15:14:41] RESUME: đã có 23 từ cho topic 'Pronouns and Determiners'
+[15:14:41] OK: Pronouns and Determiners -> 23 từ (resume-skip)
+[15:14:43] Hoàn tất: 50 topic, 1581 từ
+[15:14:59] INFO: CSV Viewer tải 1581 dòng từ all_vocabulary.csv
